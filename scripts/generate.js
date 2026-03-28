@@ -8,7 +8,7 @@ require('dotenv').config();
 // 配置：你的 RSS 源列表
 const RSS_SOURCES = [
   'https://rss.huxiu.com',      // Huxiu
-  'https://rss.36kr.com/feed', // 36kr
+  'https://36kr.com/feed', // 36kr
   'https://www.ithome.com/rss' // ithome
   // 添加更多你想聚合的源
 ];
