@@ -160,29 +160,16 @@ const outputPath = path.join(outputDir, 'feed.xml');
 fs.writeFileSync(outputPath, feed.rss2());
 console.log(`✅ RSS 文件已生成: ${outputPath}`);
 
-// 写入 JSON（可选）
-const jsonPath = path.join(outputDir, 'feed.json');
-fs.writeFileSync(jsonPath, JSON.stringify(jsonData, null, 2));
-console.log(`✅ JSON 文件已生成: ${jsonPath}`);
-
-  // 同时生成一个 JSON 供前端展示（可选）
-  const jsonPath = path.join(__dirname, '../public/feed.json');
-  const jsonData = {
-    title: FEED_INFO.title,
-    description: FEED_INFO.description,
-    updated: new Date().toISOString(),
-    items: articlesToProcess.map(a => ({
-      title: a.title,
-      link: a.link,
-      summary: a.summary,
-      pubDate: a.pubDate,
-      source: a.source,
-    })),
-  };
-  fs.writeFileSync(jsonPath, JSON.stringify(jsonData, null, 2));
-  console.log(`✅ JSON 文件已生成: ${jsonPath}`);
+const outputDir = path.join(__dirname, '../public');
+if (!fs.existsSync(outputDir)) {
+  fs.mkdirSync(outputDir, { recursive: true });
 }
 
+// 然后才是第二段的 JSON 写入
+const jsonPath = path.join(outputDir, 'feed.json');
+const jsonData = { ... };
+fs.writeFileSync(jsonPath, JSON.stringify(jsonData, null, 2));
+console.log(`✅ JSON 文件已生成: ${jsonPath}`);
 // 执行
 main().catch(error => {
   console.error('脚本执行失败:', error);
