@@ -1,0 +1,19 @@
+{
+  "name": "rss-ai-aggregator",
+  "version": "1.0.0",
+  "description": "RSS聚合+AI总结，生成新RSS源",
+  "main": "scripts/generate.js",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "feed": "^4.2.2",
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
