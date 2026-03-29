@@ -7,9 +7,10 @@ require('dotenv').config();
 
 // 配置：你的 RSS 源列表
 const RSS_SOURCES = [
-  'https://rss.huxiu.com',           // 虎嗅
-  'https://36kr.com/feed',           // 36氪
-  'https://www.ithome.com/rss',      // IT之家
+  'https://rss.huxiu.com',              // 虎嗅
+  'https://36kr.com/feed',              // 36氪
+  'https://www.ithome.com/rss',         // IT之家
+  'https://xueqiu.com/hosts/topic/rss', //雪球
 ];
 
 // 配置：最终生成的 RSS 信息
