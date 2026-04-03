@@ -1,14 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-03T05:45:02.135Z",
+  "updated": "2026-04-03T09:03:32.220Z",
   "items": [
     {
-      "title": " AI时代的省钱哲学：如何把每一个Token花在刀刃上 ",
-      "link": "https://www.huxiu.com/article/4847757.html?f=rss",
-      "summary": " <p data-check-id=\"768732\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkyMTczNjE3Nw==&mid=2247489041&idx=1&sn=f32111f16854d9f46561f27c4b3b33a8&ch...",
-      "pubDate": "2026-04-03T05:00:00.000Z",
-      "source": " 虎嗅 "
+      "title": "Take-Two 重组 AI 团队，原负责人 Luke Dicken 离职",
+      "link": "https://www.ithome.com/0/935/825.htm",
+      "summary": "<p data-vmark=\"883b\">IT之家 4 月 3 日消息，据外媒 Kotaku 报道，Take-Two 近期对内部 AI 团队进行重组，负责该业务的负责人 Luke Dicken 已在领英发帖确认离职，并表示对 Take-Two 的所作所为感到失望。</p><p data-vmark=\"f9f8\" style=\"text-align: center;\"><img src=\"https...",
+      "pubDate": "2026-04-03T08:50:01.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "VAIO 宣布自 4 月 23 日起提高日本市场家用与商用 PC 定价",
+      "link": "https://www.ithome.com/0/935/823.htm",
+      "summary": "<p data-vmark=\"ca79\">IT之家 4 月 3 日消息，日本笔记本电脑制造商 VAIO 当地时间本月 1 日宣布，<strong>将自 4 月 23 日起面向日本销售的个人与企业用 PC 产品的价格上调</strong>，具体定价将于 23 日同期公布。</p><p data-vmark=\"27b8\">IT之家了解到，本次价格调整涉及所有第一方渠道售卖的家用 PC、4 月 1 日后...",
+      "pubDate": "2026-04-03T08:48:17.000Z",
+      "source": "IT之家"
     }
   ]
 }
