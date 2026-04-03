@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Fri, 03 Apr 2026 09:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 13:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[Take-Two 重组 AI 团队，原负责人 Luke Dicken 离职]]></title>
-            <link>https://www.ithome.com/0/935/825.htm</link>
-            <guid>https://www.ithome.com/0/935/825.htm</guid>
-            <pubDate>Fri, 03 Apr 2026 08:50:01 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="883b">IT之家 4 月 3 日消息，据外媒 Kotaku 报道，Take-Two 近期对内部 AI 团队进行重组，负责该业务的负责人 Luke Dicken 已在领英发帖确认离职，并表示对 Take-Two 的所作所为感到失望。</p><p data-vmark="f9f8" style="text-align: center;"><img src="https...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="883b">IT之家 4 月 3 日消息，据外媒 Kotaku 报道，Take-Two 近期对内部 AI 团队进行重组，负责该业务的负责人 Luke Dicken 已在领英发帖确认离职，并表示对 Take-Two 的所作所为感到失望。</p><p data-vmark="f9f8" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/5971cff1-cdb2-4aaa-b354-13ff17a82fc5.jpg?x-bce-process=image/format,f_auto" w="1090" h="1200" data-weibo="0" data-mpos="2,2"  data-vmark="0032"></p><p data-vmark="67a5">公开信息显示，Take-Two 于 2022 年以 127 亿美元（IT之家注：现汇率约合 875.63 亿元人民币）收购初创公司 Zynga，目前遭到裁员的员工大多来自 Zynga 原有的应用 AI 部门，对此，Take-Two 方面目前未对此事作出公开评论。</p><p data-vmark="56ed">值得注意的是，就在上个月，Take-Two 还试图与谷歌 Genie 等 AI 工具“撇清关系”，公司总裁 Karl Slatoff 当时表示，这类技术尚处早期阶段，无法与成熟的游戏引擎相提并论。</p><p data-vmark="0fca">不过，Take-Two 的 CEO Strauss Zelnick 却对外又表现出“公司相当热衷于 AI”，其近期在投资者电话会议中再次强调，Take-Two 正在全面探索生成式 AI 在游戏开发中的应用，公司内部已有数百个相关试点项目，目标是提升效率、降低成本，并让开发者从重复性工作中解放出来，从而专注于“更具创造性的内容”。</p><p data-vmark="b125">如今，整个游戏行业对 AI 的态度呈现暧昧态势，一方面厂商积极利用 AI 降本增效，另一方面又因为玩家反感而不得不重新使用真人创作内容取代 AI 生成的争议内容，包括此前《光与影：33 号远征队》及《红色沙漠》都曝出了类似的“反复横跳”情况。</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[VAIO 宣布自 4 月 23 日起提高日本市场家用与商用 PC 定价]]></title>
-            <link>https://www.ithome.com/0/935/823.htm</link>
-            <guid>https://www.ithome.com/0/935/823.htm</guid>
-            <pubDate>Fri, 03 Apr 2026 08:48:17 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="ca79">IT之家 4 月 3 日消息，日本笔记本电脑制造商 VAIO 当地时间本月 1 日宣布，<strong>将自 4 月 23 日起面向日本销售的个人与企业用 PC 产品的价格上调</strong>，具体定价将于 23 日同期公布。</p><p data-vmark="27b8">IT之家了解到，本次价格调整涉及所有第一方渠道售卖的家用 PC、4 月 1 日后...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="ca79">IT之家 4 月 3 日消息，日本笔记本电脑制造商 VAIO 当地时间本月 1 日宣布，<strong>将自 4 月 23 日起面向日本销售的个人与企业用 PC 产品的价格上调</strong>，具体定价将于 23 日同期公布。</p><p data-vmark="27b8">IT之家了解到，本次价格调整涉及所有第一方渠道售卖的家用 PC、4 月 1 日后在第三方上架的家用 PC，以及全部商用 PC。</p><p data-vmark="e06d" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/cd66a03c-932b-4b25-9144-87471e98a836.jpg?x-bce-process=image/format,f_auto" w="1440" h="960" data-weibo="0" data-vmark="da33" class="no-alt-img"></p><figcaption>▲ VAIO 博物馆内景</figcaption><p data-vmark="0aca">VAIO 表示：</p><blockquote><p data-vmark="24af">近年来，随着生成式 AI 的普及，DRAM 等存储半导体的需求在全球范围内持续扩大，相关零部件的价格也持续上涨。为确保产品的稳定供应及维持产品质量，本公司决定实施价格调整。</p><p data-vmark="6a05">今后，我们将继续致力于降低成本，并努力为客户提供稳定的高品质产品，恳请各位予以理解。</p></blockquote>]]></content:encoded>
-        </item>
     </channel>
 </rss>
