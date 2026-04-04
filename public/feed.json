@@ -1,27 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-04T13:11:05.580Z",
+  "updated": "2026-04-04T16:45:12.115Z",
   "items": [
     {
-      "title": " 一支“桃花簪”，搅动AI版权的底线之问 ",
-      "link": "https://www.huxiu.com/article/4848168.html?f=rss",
-      "summary": " <p data-check-id=\"788674\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5NzY0MzEyNg==&mid=2651661607&idx=1&sn=2bec21d8afe257d3d6190aac1e31cf1a&ch...",
-      "pubDate": "2026-04-04T13:03:40.000Z",
-      "source": " 虎嗅 "
+      "title": "千里科技 2025 年营收 99.99 亿元同比增长 42%，AI 转型与汽车业务双轮驱动",
+      "link": "https://www.ithome.com/0/936/055.htm",
+      "summary": "<p data-vmark=\"8175\" style=\"text-align: left;\">IT之家 4 月 4 日消息，千里科技于 4 月 3 日发布 2025 年年度报告。报告显示，2025 年公司实现营业收入 99.99 亿元，同比增长 42.13%，主要系汽车业务、摩托车业务销量增长，带动收入增加；实现归属于上市公司股东的净利润 0.84 亿元，<strong>同比增长 110.93%<...",
+      "pubDate": "2026-04-04T14:17:00.000Z",
+      "source": "IT之家"
     },
     {
-      "title": " 专访黄文政：人们恐惧AI，是怕自己被社会分配抛弃 ",
-      "link": "https://www.huxiu.com/article/4848161.html?f=rss",
-      "summary": " <p data-check-id=\"878554\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg5NzUyODA5OA==&mid=2247508729&idx=1&sn=771d3f135a205eb7054493e682d443a9&ch...",
-      "pubDate": "2026-04-04T11:33:01.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": "阿里千问 AI 眼镜接入蚂蚁 GPASS：语音解锁共享单车、停车缴费",
-      "link": "https://www.ithome.com/0/936/037.htm",
-      "summary": "<p data-vmark=\"61e6\">IT之家 4 月 4 日消息，近日，千问 AI 眼镜接入蚂蚁 GPASS，上线共享单车骑行与停车缴费等一系列“AI 办事”功能。</p><p data-vmark=\"9294\">IT之家从官方介绍获悉，基于 GPASS 底层能力，用户佩戴千问 AI 眼镜后，<strong>只需语音唤醒</strong>，即可完成多项高频生活服务。在出行场景中，“你好千问，...",
-      "pubDate": "2026-04-04T11:32:15.000Z",
+      "title": "AI 仿文险入中学生课外读物，茅盾文学奖得主刘亮程打假",
+      "link": "https://www.ithome.com/0/936/049.htm",
+      "summary": "<p data-vmark=\"68a6\">IT之家 4 月 4 日消息，茅盾文学奖得主、新疆作协主席刘亮程 4 月 2 日发文称：“收到文著协转来某出版社选我的文章，竟然是 AI 仿写文，署名刘亮程。此前看到许多署名刘亮程的金句、短文等都不是我的，<strong>这次是要编入中学生课外读物，幸好被我拦截了</strong>。不知谁在用我的名字生成像我但绝对不是我的文字。”</p><p data-v...",
+      "pubDate": "2026-04-04T13:19:09.000Z",
       "source": "IT之家"
     }
   ]
