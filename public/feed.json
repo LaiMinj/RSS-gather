@@ -1,20 +1,27 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-04T08:51:54.712Z",
+  "updated": "2026-04-04T13:11:05.580Z",
   "items": [
     {
-      "title": "上汽奥迪 E5 Sportback 升级搭载全新 Momenta 强化学习大模型",
-      "link": "https://www.ithome.com/0/936/006.htm",
-      "summary": "<p data-vmark=\"e591\">IT之家 4 月 4 日消息，上汽奥迪于 4 月 2 日宣布旗下 E5 Sportback 车型<span class=\"js_title_inner\">全景辅助驾驶升级，搭载全新 Momenta 强化学习大模型。</span></p><p data-vmark=\"fb13\"><span class=\"js_title_inner\">据介绍，该车型支持环岛...",
-      "pubDate": "2026-04-04T08:40:30.000Z",
-      "source": "IT之家"
+      "title": " 一支“桃花簪”，搅动AI版权的底线之问 ",
+      "link": "https://www.huxiu.com/article/4848168.html?f=rss",
+      "summary": " <p data-check-id=\"788674\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5NzY0MzEyNg==&mid=2651661607&idx=1&sn=2bec21d8afe257d3d6190aac1e31cf1a&ch...",
+      "pubDate": "2026-04-04T13:03:40.000Z",
+      "source": " 虎嗅 "
     },
     {
-      "title": "米哈游刘伟、蔡浩宇、罗宇皓集体向上海交大捐资，加注“AI 未来基石”基金",
-      "link": "https://www.ithome.com/0/936/005.htm",
-      "summary": "<p data-vmark=\"2cb9\">IT之家 4 月 4 日消息，今日，上海交通大学徐汇校区总办公厅举行了一场捐赠仪式。米哈游联合创始人、总裁、董事长、上海交通大学 2005 级信息工程专业本科、2009 级通信与信息系统专业硕士校友刘伟，代表米哈游创始团队蔡浩宇、罗宇皓，共同向母校捐资，用于助力学校设立的“AI 未来基石”基金。蔡浩宇、罗宇皓未到现场，通过刘伟转达了对母校和师生的问候。</...",
-      "pubDate": "2026-04-04T08:33:24.000Z",
+      "title": " 专访黄文政：人们恐惧AI，是怕自己被社会分配抛弃 ",
+      "link": "https://www.huxiu.com/article/4848161.html?f=rss",
+      "summary": " <p data-check-id=\"878554\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg5NzUyODA5OA==&mid=2247508729&idx=1&sn=771d3f135a205eb7054493e682d443a9&ch...",
+      "pubDate": "2026-04-04T11:33:01.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "阿里千问 AI 眼镜接入蚂蚁 GPASS：语音解锁共享单车、停车缴费",
+      "link": "https://www.ithome.com/0/936/037.htm",
+      "summary": "<p data-vmark=\"61e6\">IT之家 4 月 4 日消息，近日，千问 AI 眼镜接入蚂蚁 GPASS，上线共享单车骑行与停车缴费等一系列“AI 办事”功能。</p><p data-vmark=\"9294\">IT之家从官方介绍获悉，基于 GPASS 底层能力，用户佩戴千问 AI 眼镜后，<strong>只需语音唤醒</strong>，即可完成多项高频生活服务。在出行场景中，“你好千问，...",
+      "pubDate": "2026-04-04T11:32:15.000Z",
       "source": "IT之家"
     }
   ]
