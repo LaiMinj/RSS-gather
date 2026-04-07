@@ -1,13 +1,34 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-06T20:46:42.234Z",
+  "updated": "2026-04-07T03:16:22.727Z",
   "items": [
     {
-      "title": "玄派玄机 16 2026 笔记本电脑上架：AMD 锐龙 AI Max+ 395，128GB + 2TB",
-      "link": "https://www.ithome.com/0/936/297.htm",
-      "summary": "<p data-vmark=\"8c18\">IT之家 4 月 6 日消息，玄派 Metaphyuni 现已上架玄机 16 2026 笔记本电脑。其搭载 AMD 锐龙 AI Max+ 395 处理器，配备 128GB LPDDR5X-8000 内存和 2TB PCIe Gen4×4 SSD 存储，<strong>首发到手价 22999 元</strong>。</p><p data-vmark=\"478...",
-      "pubDate": "2026-04-06T12:43:03.000Z",
+      "title": " 最新加入AI炒作大赛的选手，是杨元庆 ",
+      "link": "https://www.huxiu.com/article/4848461.html?f=rss",
+      "summary": " <p data-check-id=\"728376\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247499627&idx=1&sn=002e4e9ef606fa66a81f4ff9a9bcf73e&ch...",
+      "pubDate": "2026-04-07T03:14:39.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": " 23天，他靠一部AI短片赚了一百万 ",
+      "link": "https://www.huxiu.com/article/4848460.html?f=rss",
+      "summary": " <p data-check-id=\"458048\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247499627&idx=2&sn=95f3adc0e7c95fee172293955257e9e7&ch...",
+      "pubDate": "2026-04-07T03:14:00.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": " “雪山救狐狸”爆火全网，却给AI短剧指了一条错路 ",
+      "link": "https://www.huxiu.com/article/4848459.html?f=rss",
+      "summary": " <p data-check-id=\"353564\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5NzA5MzA3NQ==&mid=2652927683&idx=1&sn=c38875845d0d052b91095b5a7161f8d8&ch...",
+      "pubDate": "2026-04-07T03:12:56.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "消息称 Mistral AI 首席执行官会见三星电子高官，讨论存储半导体合作",
+      "link": "https://www.ithome.com/0/936/383.htm",
+      "summary": "<p data-vmark=\"5354\">IT之家 4 月 7 日消息，据韩媒《朝鲜日报》当地时间 5 日报道，欧洲人工智能企业 Mistral AI 联合创始人兼首席执行官 Arthur Mensch 作为法国总统马克龙的随行人员访问了韩国。</p><p data-vmark=\"0c96\">Arthur Mensch 当地时间本月 2 日在三星电子华城园区会见了三星电子副董事长兼 CEO、设备解...",
+      "pubDate": "2026-04-07T02:52:24.000Z",
       "source": "IT之家"
     }
   ]
