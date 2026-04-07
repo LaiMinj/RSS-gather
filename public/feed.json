@@ -1,35 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-07T03:16:22.727Z",
+  "updated": "2026-04-07T05:50:06.976Z",
   "items": [
     {
-      "title": " 最新加入AI炒作大赛的选手，是杨元庆 ",
-      "link": "https://www.huxiu.com/article/4848461.html?f=rss",
-      "summary": " <p data-check-id=\"728376\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247499627&idx=1&sn=002e4e9ef606fa66a81f4ff9a9bcf73e&ch...",
-      "pubDate": "2026-04-07T03:14:39.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " 23天，他靠一部AI短片赚了一百万 ",
-      "link": "https://www.huxiu.com/article/4848460.html?f=rss",
-      "summary": " <p data-check-id=\"458048\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247499627&idx=2&sn=95f3adc0e7c95fee172293955257e9e7&ch...",
-      "pubDate": "2026-04-07T03:14:00.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " “雪山救狐狸”爆火全网，却给AI短剧指了一条错路 ",
-      "link": "https://www.huxiu.com/article/4848459.html?f=rss",
-      "summary": " <p data-check-id=\"353564\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5NzA5MzA3NQ==&mid=2652927683&idx=1&sn=c38875845d0d052b91095b5a7161f8d8&ch...",
-      "pubDate": "2026-04-07T03:12:56.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": "消息称 Mistral AI 首席执行官会见三星电子高官，讨论存储半导体合作",
-      "link": "https://www.ithome.com/0/936/383.htm",
-      "summary": "<p data-vmark=\"5354\">IT之家 4 月 7 日消息，据韩媒《朝鲜日报》当地时间 5 日报道，欧洲人工智能企业 Mistral AI 联合创始人兼首席执行官 Arthur Mensch 作为法国总统马克龙的随行人员访问了韩国。</p><p data-vmark=\"0c96\">Arthur Mensch 当地时间本月 2 日在三星电子华城园区会见了三星电子副董事长兼 CEO、设备解...",
-      "pubDate": "2026-04-07T02:52:24.000Z",
+      "title": "日本团队训练大鼠神经元，可实时执行 AI 计算任务",
+      "link": "https://www.ithome.com/0/936/502.htm",
+      "summary": "<p data-vmark=\"1af8\">IT之家 4 月 7 日消息，科技媒体 Tom's Hardware 于 4 月 5 日发布博文，报道称日本科学家成功训练大鼠皮层神经元，<strong>利用实时机器学习框架自主生成复杂时序信号。</strong></p><p data-vmark=\"88fe\">日本东北大学与未来大学研究团队集成活体神经元与高密度微电极阵列及微流控设备，构建了“闭环储备池...",
+      "pubDate": "2026-04-07T05:44:04.000Z",
       "source": "IT之家"
+    },
+    {
+      "title": " 纽约客惊爆OpenAI 大瓜：山姆·奥特曼是个“反社会骗子” ",
+      "link": "https://www.huxiu.com/article/4848500.html?f=rss",
+      "summary": " <p data-check-id=\"845034\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652449411&idx=1&sn=304cd290b39c8891f5bd441e50b774ae&ch...",
+      "pubDate": "2026-04-07T05:40:00.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
