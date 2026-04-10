@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Fri, 10 Apr 2026 06:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 09:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[谷歌 Gemini AI 解锁新技能：生成交互式图表和 3D 模型]]></title>
-            <link>https://www.ithome.com/0/937/774.htm</link>
-            <guid>https://www.ithome.com/0/937/774.htm</guid>
-            <pubDate>Fri, 10 Apr 2026 05:51:28 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="bc12">IT之家 4 月 10 日消息，谷歌正不断强化 Gemini 的可视化能力，当地时间 4 月 9 日，Gemini 的最新更新带来了交互式 3D 模拟与模型功能，用户通过简单提示即可生成动态内容。</p><p data-vmark="615f">据外媒 Neowin 报道，相比过去以文本和静态图示为主的回答方式，Gemini 在更新后能够提供“可操作的模拟...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="bc12">IT之家 4 月 10 日消息，谷歌正不断强化 Gemini 的可视化能力，当地时间 4 月 9 日，Gemini 的最新更新带来了交互式 3D 模拟与模型功能，用户通过简单提示即可生成动态内容。</p><p data-vmark="615f">据外媒 Neowin 报道，相比过去以文本和静态图示为主的回答方式，Gemini 在更新后能够提供“可操作的模拟”，让用户以更直观的方式理解复杂概念。</p><p data-vmark="5d4b">这一功能支持多种使用场景，包括模拟复杂物理系统、观察分子结构变化，以及演示月球绕地运行过程等。以轨道模拟为例，用户可以<strong>通过滑动控制调整初始速度和引力强度</strong>，实时观察轨道如何形成或发生变化，而不再受限于固定图示。</p><p data-vmark="aaff" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/1c2978a1-adf0-4a6b-ad1f-280584374b17.png?x-bce-process=image/format,f_auto" w="1280" h="720" data-weibo="0" data-vmark="8cd7" class="no-alt-img"></p><p data-vmark="adb5">在使用方式上，用户只需在提示中加入“向我展示（show me）”或“帮我可视化（help me visualize）”等指令，并选择“Pro”模型即可。例如输入“可视化分形的生成过程”，即可看到分形生长，并可调整分支角度、长度比例和迭代次数等参数。</p><p data-vmark="4ae6">若用户想要探索量子物理领域，则可以输入“展示双缝实验如何运作”，Gemini 将提供波长、波速以及缝隙间距等参数选项，使波动变化能够实时呈现。</p><p data-vmark="0938" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/66849e8a-8ef8-4422-b878-61fbb25a5306.png?x-bce-process=image/format,f_auto" w="1000" h="562" data-weibo="1" data-vmark="bf6c" class="no-alt-img"></p><p data-vmark="4025" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/26b1ee36-79c2-4bda-818e-3b78c64d82bd.gif" w="1920" h="1080" data-weibo="2" data-advance="W3siVHlwZSI6IndlYnBhIiwiVXJsIjoiaHR0cHM6Ly9pbWcuaXRob21lLmNvbS9uZXdzdXBsb2FkZmlsZXMvMjAyNi80LzFjZjIzNGQwLTllZWQtNGY3ZC1iMmEwLWRlNWU1MWJmZjQyMy53ZWJwIn1d" data-preview="https://img.ithome.com/newsuploadfiles/2026/4/26b1ee36-79c2-4bda-818e-3b78c64d82bd.gif?x-bce-process=image/format,f_png" data-vmark="9717" class="no-alt-img"></p><p data-vmark="b8e9">谷歌宣布该功能正逐步向所有用户开放，教育版与 Workspace 账户则暂不受支持。据IT之家了解，这一更新是在此前可交互学习功能基础上的进一步扩展。</p><p data-vmark="6f6d">此前，Gemini 已支持在生物、物理、化学和数学领域生成可点击的交互式图示，用户可以通过点击不同区域获取详细说明，从而逐步理解复杂知识结构。</p>]]></content:encoded>
-        </item>
     </channel>
 </rss>
