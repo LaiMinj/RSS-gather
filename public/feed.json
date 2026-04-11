@@ -1,35 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-11T02:50:46.524Z",
+  "updated": "2026-04-11T05:27:22.574Z",
   "items": [
     {
-      "title": " AI裁的不是人，是旧时代的任务分工 ",
-      "link": "https://www.huxiu.com/article/4849670.html?f=rss",
-      "summary": " <p data-check-id=\"840561\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzI5NjU2Njc2Ng==&mid=2247494131&idx=1&sn=c9b72f50892a0515f6ab2354cf84e27b&ch...",
-      "pubDate": "2026-04-11T02:48:24.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": "高盛、摩根士丹利等大行正测试Anthropic的Mythos大模型",
-      "link": "https://36kr.com/newsflashes/3761738244981257?f=rss",
-      "summary": "据报道，高盛、摩根士丹利等华尔街银行正测试Anthropic的Mythos大模型。（界面）...",
-      "pubDate": "2026-04-11T02:42:54.000Z",
+      "title": "日本投入160亿美元，力推初创企业Rapidus进军人工智能芯片领域",
+      "link": "https://36kr.com/newsflashes/3761942487990792?f=rss",
+      "summary": "日本经济产业省周六表示，这笔资金将用于支持Rapidus为信息技术企业富士通株式会社开展研发工作，富士通是日方希望能推动该标志性项目落地的首批客户之一。新增资金后，截至2027年3月本财年末，政府对这家初创企业的补贴与投资总额将升至2.6万亿日元（约合163亿美元）。该省称，一个外部委员会已视察了Rapidus位于日本北部北海道的芯片制造厂，并对其技术进展予以认可。（新浪财经）...",
+      "pubDate": "2026-04-11T05:23:34.000Z",
       "source": "36氪"
-    },
-    {
-      "title": " 当AI成为书的“第一读者”，人该怎么办？ ",
-      "link": "https://www.huxiu.com/article/4849642.html?f=rss",
-      "summary": " <p data-check-id=\"436710\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA5NzIwNTkzMw==&mid=2651134160&idx=1&sn=2df0d646ae9e4a1d65906049c8960f61&ch...",
-      "pubDate": "2026-04-11T02:25:00.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": " 从拒绝AI到一切先问Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了 ",
-      "link": "https://www.huxiu.com/article/4849668.html?f=rss",
-      "summary": " <p data-check-id=\"648688\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651281357&idx=1&sn=e104684f202ebe7a2b2d11b5f06656f5&ch...",
-      "pubDate": "2026-04-11T02:21:21.000Z",
-      "source": " 虎嗅 "
     }
   ]
 }
