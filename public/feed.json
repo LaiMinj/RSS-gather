@@ -1,35 +1,42 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-12T13:16:14.059Z",
+  "updated": "2026-04-12T16:49:54.133Z",
   "items": [
     {
-      "title": "央视起底 AI“造黄”产业链：9.9 元教程批量生成擦边视频",
-      "link": "https://www.ithome.com/0/938/348.htm",
-      "summary": "<p data-vmark=\"faf0\">IT之家 4 月 12 日消息，今晚，总台《财经调查》栏目播出专题报道，曝光了一条利用人工智能技术从事非法“造黄”活动的完整产业链。</p><p style=\"text-align: center;\" data-vmark=\"7577\"><a class=\"ithome_super_player\" contenteditable=\"false\" targe...",
-      "pubDate": "2026-04-12T13:00:15.000Z",
+      "title": " AI这团火，会不会被自己的过度成功所浇灭 ",
+      "link": "https://www.huxiu.com/article/4849902.html?f=rss",
+      "summary": " <p data-check-id=\"212547\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkzMzI2ODAyNQ==&mid=2247492993&idx=1&sn=6896564c859a50604c9908099690847a&ch...",
+      "pubDate": "2026-04-12T16:19:26.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "黯然退场：苹果前 AI 负责人 Giannandrea 预计将于 4 月 15 日后离任",
+      "link": "https://www.ithome.com/0/938/363.htm",
+      "summary": "<p data-vmark=\"63bb\">IT之家 4 月 12 日消息，彭博社马克 · 古尔曼（Mark Gurman）在其最新一期《Power On》中还提到了另外两件事，一是折叠屏 iPhone 仍按计划在 9 月亮相，并将与 iPhone 18 Pro 系列机型同步或紧随其后开售。此事IT之家已有多次报道。</p><p data-vmark=\"499c\">除此之外，2018 年从谷歌跳槽空...",
+      "pubDate": "2026-04-12T15:21:33.000Z",
       "source": "IT之家"
     },
     {
-      "title": " 诺奖经济学家彼得·豪伊特：AI难帮到CEO，却能救普通人 ",
-      "link": "https://www.huxiu.com/article/4849864.html?f=rss",
-      "summary": " <p data-check-id=\"329316\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/GzxyYKrR3vz1ODyoKIz6NQ\" target=\"_blank\" rel=\"nofollow\" style=\"text-decoration: non...",
-      "pubDate": "2026-04-12T12:40:04.000Z",
-      "source": " 虎嗅 "
+      "title": "Linux 对 AI 生成代码制定规则：允许使用 Copilot 等辅助工具，人类承担失误责任",
+      "link": "https://www.ithome.com/0/938/362.htm",
+      "summary": "<p data-vmark=\"9145\">IT之家 4 月 12 日消息，据科技媒体 Tom's Hardware 今天报道，经历数月争论后，Linux 内核维护团队为 AI 生成代码制定正式准则，允许使用<span class=\"hover:entity-accent entity-underline inline cursor-pointer align-baseline\"> GitHub <...",
+      "pubDate": "2026-04-12T15:09:37.000Z",
+      "source": "IT之家"
     },
     {
-      "title": " AI不会把流量还给组团社：东亚OTA与旅行社的再定价 ",
-      "link": "https://www.huxiu.com/article/4849861.html?f=rss",
-      "summary": " <p data-check-id=\"786534\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MTEzMzIzODIyMQ==&mid=2654989271&idx=1&sn=a37ba233714733296a7955f19eb1d4f6&ch...",
-      "pubDate": "2026-04-12T12:17:08.000Z",
-      "source": " 虎嗅 "
+      "title": "摩尔线程完成 MiniMax M2.7 大模型 Day-0 适配，支持 MTT S5000 训推一体全功能 GPU",
+      "link": "https://www.ithome.com/0/938/361.htm",
+      "summary": "<p data-vmark=\"ee79\">IT之家 4 月 12 日消息，摩尔线程已完成 MiniMax M2.7 大模型 Day-0 适配，支持 MTT S5000 旗舰级 AI 训推一体全功能 GPU。</p><p data-vmark=\"0c3f\">据介绍，<strong>MiniMax M2.7 是业界首个具备深度自我进化能力的大模型</strong>，能够自主构建 Agent Harne...",
+      "pubDate": "2026-04-12T14:50:29.000Z",
+      "source": "IT之家"
     },
     {
-      "title": " 万能的AI啊，救救我们周董的新专辑吧 ",
-      "link": "https://www.huxiu.com/article/4849860.html?f=rss",
-      "summary": " <p data-check-id=\"851383\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652356372&idx=1&sn=785488ea452024eec499126a1f63cee7&ch...",
-      "pubDate": "2026-04-12T12:11:24.000Z",
-      "source": " 虎嗅 "
+      "title": "苹果 AI 智能眼镜细节曝光：多款框型配色、竖向椭圆形摄像头，有望 2027 年上市",
+      "link": "https://www.ithome.com/0/938/360.htm",
+      "summary": "<p data-vmark=\"ad16\">IT之家 4 月 12 日消息，彭博社记者马克 · 古尔曼（Mark Gurman）在其最新一期《Power On》通讯中披露，苹果公司即将推出全新的 AI 智能眼镜，将提供多种框型与配色可选。</p><p data-vmark=\"e9b8\">据称，这款开发中的产品目前正在测试一种独特的竖向椭圆形摄像头设计。他预测这款代号为 N50 的产品将于 2026 ...",
+      "pubDate": "2026-04-12T14:36:59.000Z",
+      "source": "IT之家"
     }
   ]
 }
