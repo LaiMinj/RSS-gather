@@ -1,41 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-12T20:45:38.511Z",
+  "updated": "2026-04-13T03:36:52.802Z",
   "items": [
     {
-      "title": " AI这团火，会不会被自己的过度成功所浇灭 ",
-      "link": "https://www.huxiu.com/article/4849902.html?f=rss",
-      "summary": " <p data-check-id=\"212547\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzkzMzI2ODAyNQ==&mid=2247492993&idx=1&sn=6896564c859a50604c9908099690847a&ch...",
-      "pubDate": "2026-04-12T16:19:26.000Z",
+      "title": " AI洗稿年入百万？平台和创作者，请守住最后的底线 ",
+      "link": "https://www.huxiu.com/article/4849961.html?f=rss",
+      "summary": " <p data-check-id=\"235482\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4MTQ0ODEwNg==&mid=2650222238&idx=5&sn=6de1ed57afc8e5f574391b581b13c5d2&ch...",
+      "pubDate": "2026-04-13T03:28:42.000Z",
       "source": " 虎嗅 "
     },
     {
-      "title": "黯然退场：苹果前 AI 负责人 Giannandrea 预计将于 4 月 15 日后离任",
-      "link": "https://www.ithome.com/0/938/363.htm",
-      "summary": "<p data-vmark=\"63bb\">IT之家 4 月 12 日消息，彭博社马克 · 古尔曼（Mark Gurman）在其最新一期《Power On》中还提到了另外两件事，一是折叠屏 iPhone 仍按计划在 9 月亮相，并将与 iPhone 18 Pro 系列机型同步或紧随其后开售。此事IT之家已有多次报道。</p><p data-vmark=\"499c\">除此之外，2018 年从谷歌跳槽空...",
-      "pubDate": "2026-04-12T15:21:33.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "Linux 对 AI 生成代码制定规则：允许使用 Copilot 等辅助工具，人类承担失误责任",
-      "link": "https://www.ithome.com/0/938/362.htm",
-      "summary": "<p data-vmark=\"9145\">IT之家 4 月 12 日消息，据科技媒体 Tom's Hardware 今天报道，经历数月争论后，Linux 内核维护团队为 AI 生成代码制定正式准则，允许使用<span class=\"hover:entity-accent entity-underline inline cursor-pointer align-baseline\"> GitHub <...",
-      "pubDate": "2026-04-12T15:09:37.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "摩尔线程完成 MiniMax M2.7 大模型 Day-0 适配，支持 MTT S5000 训推一体全功能 GPU",
-      "link": "https://www.ithome.com/0/938/361.htm",
-      "summary": "<p data-vmark=\"ee79\">IT之家 4 月 12 日消息，摩尔线程已完成 MiniMax M2.7 大模型 Day-0 适配，支持 MTT S5000 旗舰级 AI 训推一体全功能 GPU。</p><p data-vmark=\"0c3f\">据介绍，<strong>MiniMax M2.7 是业界首个具备深度自我进化能力的大模型</strong>，能够自主构建 Agent Harne...",
-      "pubDate": "2026-04-12T14:50:29.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "苹果 AI 智能眼镜细节曝光：多款框型配色、竖向椭圆形摄像头，有望 2027 年上市",
-      "link": "https://www.ithome.com/0/938/360.htm",
-      "summary": "<p data-vmark=\"ad16\">IT之家 4 月 12 日消息，彭博社记者马克 · 古尔曼（Mark Gurman）在其最新一期《Power On》通讯中披露，苹果公司即将推出全新的 AI 智能眼镜，将提供多种框型与配色可选。</p><p data-vmark=\"e9b8\">据称，这款开发中的产品目前正在测试一种独特的竖向椭圆形摄像头设计。他预测这款代号为 N50 的产品将于 2026 ...",
-      "pubDate": "2026-04-12T14:36:59.000Z",
+      "title": "OpenAI CEO 奥尔特曼住所再遭枪击，警方已逮捕两名嫌疑人",
+      "link": "https://www.ithome.com/0/938/461.htm",
+      "summary": "<p data-vmark=\"b083\">IT之家 4 月 13 日消息，据《旧金山标准报》获悉，OpenAI 首席执行官萨姆 · 奥尔特曼的住所于当地时间周日清晨疑似遭遇第二次袭击，而就在两天前，一名 20 岁男子据称曾向该住所投掷燃烧瓶。</p><p style=\"text-align: center;\" data-vmark=\"ae22\"><img src=\"https://img.itho...",
+      "pubDate": "2026-04-13T03:20:54.000Z",
       "source": "IT之家"
     }
   ]
