@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>AI 精选周报</title>
+        <link>https://your-username.github.io/rss-ai-aggregator/</link>
+        <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
+        <lastBuildDate>Mon, 13 Apr 2026 06:22:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-cn</language>
+        <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[中国16家科技社团联合倡议共促全球人工智能治理]]></title>
+            <link>https://36kr.com/newsflashes/3764864965755401?f=rss</link>
+            <guid>https://36kr.com/newsflashes/3764864965755401?f=rss</guid>
+            <pubDate>Mon, 13 Apr 2026 06:18:41 GMT</pubDate>
+            <description><![CDATA[中国科协所属中国自动化学会、中国电子学会、中国计算机学会、中国人工智能学会等16家科技社团4月13日共同发布《全球人工智能治理科技社团倡议》，倡导以人为本、智能向善，推动建立开放、公正、包容、有效的全球人工智能治理体系。倡议提出，以增进人类共同福祉为人工智能学术研究的根本遵循；将安全作为人工智能学术研究与治理的底线要求；尊重各国平等参与人工智能研究与治理的权利，反对技术霸权、学术壁垒、排他性“小圈...]]></description>
+            <content:encoded><![CDATA[中国科协所属中国自动化学会、中国电子学会、中国计算机学会、中国人工智能学会等16家科技社团4月13日共同发布《全球人工智能治理科技社团倡议》，倡导以人为本、智能向善，推动建立开放、公正、包容、有效的全球人工智能治理体系。倡议提出，以增进人类共同福祉为人工智能学术研究的根本遵循；将安全作为人工智能学术研究与治理的底线要求；尊重各国平等参与人工智能研究与治理的权利，反对技术霸权、学术壁垒、排他性“小圈子”及不合理技术垄断；引导公众正确认知技术发展阶段与潜在风险等。（新华社）]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[实力“眼”技，华为 AI 眼镜官宣 4 月 20 日正式亮相]]></title>
+            <link>https://www.ithome.com/0/938/497.htm</link>
+            <guid>https://www.ithome.com/0/938/497.htm</guid>
+            <pubDate>Mon, 13 Apr 2026 06:12:29 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="c030">IT之家 4 月 13 日消息，今天下午，华为终端官微宣布：华为 AI 眼镜将于 4 月 20 日的华为 Pura 系列及全场景新品发布会上正式亮相，官方宣传语为“实力‘眼’技”。</p><p data-vmark="4d77" style="text-align: center;"><img src="https://qimg.ithome.com/ne...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="c030">IT之家 4 月 13 日消息，今天下午，华为终端官微宣布：华为 AI 眼镜将于 4 月 20 日的华为 Pura 系列及全场景新品发布会上正式亮相，官方宣传语为“实力‘眼’技”。</p><p data-vmark="4d77" style="text-align: center;"><img src="https://qimg.ithome.com/newfiles/2026/4/d17c887e-b61d-40b1-9d60-2b2cff5aa6ad.jpg?x-bce-process=image/format,f_auto" w="1080" h="1920" data-weibo="0" data-vmark="7f8a" class="no-alt-img"></p><p data-vmark="95a8">本月早些时候，华为终端 BG 首席执行官何刚分享了该眼镜的拍摄样张。</p><p data-vmark="f6ec" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/ee6b9ee8-67ce-4c24-bba7-465a271a9d80.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" w="698" h="594" data-weibo="1" data-vmark="02cd" class="no-alt-img"></p><p data-vmark="b48c">据IT之家此前报道，有爆料称<a target="_blank" href="https://www.ithome.com/0/914/616.htm">华为 AI 眼镜暂定上半年登场</a>，支持拍照和音频，鸿蒙系统 + 跨端无缝协同，同传翻译，XXXX 新玩法，流光银 / 钛银灰 / 摩登黑。</p><p data-vmark="3040">而在本月早些时候，“蓝鲸科技”从知情人士处获悉，华为新款 AI 眼镜由歌尔股份代工。同时，该媒体记者以投资者身份致电歌尔股份方面，对方表示，“我们跟客户之间签订有保密协议，<strong>客户名称不方便透露</strong>”。</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
