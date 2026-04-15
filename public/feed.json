@@ -1,21 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-15T06:04:41.606Z",
+  "updated": "2026-04-15T09:27:49.396Z",
   "items": [
     {
-      "title": "摩根大通CEO警告人工智能技术引发的网络攻击风险",
-      "link": "https://36kr.com/newsflashes/3767665304240640?f=rss",
-      "summary": "摩根大通CEO杰米·戴蒙周二表示，虽然人工智能工具最终可能帮助企业抵御网络攻击，但它们最初却让企业更容易受到攻击。戴蒙表示，摩根大通正在测试Anthropic上周发布的最新人工智能模型Mythos预览版，这是该公司为充分利用人工智能的优势并防范恶意行为者利用该技术而采取的更广泛举措的一部分。（新浪财经）...",
-      "pubDate": "2026-04-15T05:47:20.000Z",
+      "title": "诺基亚联手Orange与英伟达推进AI-RAN创新",
+      "link": "https://36kr.com/newsflashes/3767868212101897?f=rss",
+      "summary": "4月15日，诺基亚宣布与Orange及英伟达合作，利用AI优化无线接入网。通过集成英伟达算力平台，三方旨在提升频谱效率、降低能耗并增强网络容量，为未来5G-Advanced及6G演进奠定智能化基础。（界面）...",
+      "pubDate": "2026-04-15T09:13:45.000Z",
       "source": "36氪"
     },
     {
-      "title": "微软接手 OpenAI 挪威“星门”数据中心，获 3 万块英伟达芯片算力",
-      "link": "https://www.ithome.com/0/939/313.htm",
-      "summary": "<p data-vmark=\"ac79\">IT之家 4 月 15 日消息，据彭博社报道，微软公司已同意租用挪威一处数据中心的算力资源，该场地最初是为 OpenAI 准备的，并被宣传为这家人工智能公司“星门（Stargate）计划”的一部分。</p><p style=\"text-align: center;\" data-vmark=\"6350\"><img src=\"https://img.ithom...",
-      "pubDate": "2026-04-15T05:40:28.000Z",
-      "source": "IT之家"
+      "title": " 800元“卖脸”给AI短剧，你愿意吗？ ",
+      "link": "https://www.huxiu.com/article/4850800.html?f=rss",
+      "summary": " <p data-check-id=\"452002\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MjM2MzEyNQ==&mid=2651607324&idx=1&sn=61966031a39f4ae333855fc90b8b788f&ch...",
+      "pubDate": "2026-04-15T09:12:22.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
