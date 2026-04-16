@@ -1,13 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-15T20:59:51.114Z",
+  "updated": "2026-04-16T03:32:32.464Z",
   "items": [
     {
-      "title": "华为 Pura X Max 横向阔折叠手机确认支持 AI 眼动翻页功能，4 月 20 日发布",
-      "link": "https://www.ithome.com/0/939/637.htm",
-      "summary": "<p data-vmark=\"0c4d\">IT之家 4 月 15 日消息，华为终端 BG 首席执行官何刚今日再次预告了 Pura X Max 横向阔折叠新机。据介绍，<strong>华为 Pura X Max 将支持 AI 眼动翻页、横屏双翻页等功能</strong>，同时阅读软件还支持 AI 动态画面生成。</p><p style=\"text-align: center;\" data-vmark...",
-      "pubDate": "2026-04-15T14:22:51.000Z",
+      "title": "小米 18 Pro 手机渲染图曝光：新增 AI 按钮，可控制汽车 / 智能家居",
+      "link": "https://www.ithome.com/0/939/769.htm",
+      "summary": "<p data-vmark=\"63d0\">IT之家 4 月 16 日消息，消息源 @leo_hefeng 昨日（4 月 15 日）在 X 平台发布推文，分享了一组渲染图，展示了小米 18 Pro 手机，<strong>重点凸显机身侧面的 AI 按键，支持启动 AI 功能、控制智能家居及小米汽车。</strong></p><p data-vmark=\"c383\">外观方面，小米 18 Pro 延续<...",
+      "pubDate": "2026-04-16T03:27:51.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "微软 2026 黑客大赛支付 230 万美元：高中生到教授齐上阵，揪出 80+ 个云和 AI 漏洞",
+      "link": "https://www.ithome.com/0/939/752.htm",
+      "summary": "<p data-vmark=\"a61c\">IT之家 4 月 16 日消息，科技媒体 bleepingcomputer 昨日（4 月 15 日）发布博文，报道称在 2026 年度 Zero Day Quest 黑客大赛中，<strong>微软共计收到近 700 份漏洞提交，支付 230 万美元（IT之家注：现汇率约合 1571.5 万元人民币）奖金。</strong></p><p data-vmar...",
+      "pubDate": "2026-04-16T03:08:04.000Z",
       "source": "IT之家"
     }
   ]
