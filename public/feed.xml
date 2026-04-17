@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Thu, 16 Apr 2026 20:57:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 03:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[国家发改委：今年将重点在“人工智能+”基础设施等领域，开展一系列扩大有效投资行动]]></title>
+            <link>https://36kr.com/newsflashes/3770348485558787?f=rss</link>
+            <guid>https://36kr.com/newsflashes/3770348485558787?f=rss</guid>
+            <pubDate>Fri, 17 Apr 2026 03:16:48 GMT</pubDate>
+            <description><![CDATA[国新办4月17日上午举行“开局起步‘十五五’”系列主题新闻发布会，国家发展改革委副主任王昌林表示，今年将重点在“人工智能+”基础设施、城市更新、国家水网、新型能源体系等领域，开展一系列扩大有效投资行动，促进供给结构优化、市场需求扩容。体制机制创新上，我们将在中央投资项目中全面开展“软建设”工作，促进形成项目建设实施和运营维护的长效机制。同时，还将发挥国家创业投资引导基金作用，引导带动社会资本支持科...]]></description>
+            <content:encoded><![CDATA[国新办4月17日上午举行“开局起步‘十五五’”系列主题新闻发布会，国家发展改革委副主任王昌林表示，今年将重点在“人工智能+”基础设施、城市更新、国家水网、新型能源体系等领域，开展一系列扩大有效投资行动，促进供给结构优化、市场需求扩容。体制机制创新上，我们将在中央投资项目中全面开展“软建设”工作，促进形成项目建设实施和运营维护的长效机制。同时，还将发挥国家创业投资引导基金作用，引导带动社会资本支持科技创新和新兴产业发展。（证券时报）]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ 如果你老板总说“AI赋能”，那你必须学会这三招保命 ]]></title>
+            <link>https://www.huxiu.com/article/4851256.html?f=rss</link>
+            <guid>4851256</guid>
+            <pubDate>Fri, 17 Apr 2026 03:10:00 GMT</pubDate>
+            <description><![CDATA[ <p data-check-id="807597">老板整天念叨“AI赋能”，你不懂也得硬着头皮上，反正不会用也要假装会。学会这3招带薪摸鱼，老板觉得你比龙虾还牛！</p> ...]]></description>
+            <content:encoded><![CDATA[ <p data-check-id="807597">老板整天念叨“AI赋能”，你不懂也得硬着头皮上，反正不会用也要假装会。学会这3招带薪摸鱼，老板觉得你比龙虾还牛！</p> ]]></content:encoded>
+        </item>
     </channel>
 </rss>
