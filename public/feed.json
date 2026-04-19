@@ -1,6 +1,14 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-19T06:03:24.532Z",
-  "items": []
+  "updated": "2026-04-19T09:01:35.760Z",
+  "items": [
+    {
+      "title": "为 AI 智能体订立生成式 UI 设计标准，谷歌发布 A2UI 0.9",
+      "link": "https://www.ithome.com/0/940/893.htm",
+      "summary": "<p data-vmark=\"3c53\">IT之家 4 月 19 日消息，据科技媒体 The Decoder 今天报道，谷歌现已推出生成式 UI 标准 A2UI 0.9，允许 AI 智能体构建用户界面元素，可以从现有应用组件中调用资源。</p><p style=\"text-align: center;\" data-vmark=\"a4f7\"><img src=\"https://img.ithome....",
+      "pubDate": "2026-04-19T08:16:51.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
