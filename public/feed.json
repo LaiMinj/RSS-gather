@@ -1,6 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-18T20:45:47.037Z",
-  "items": []
+  "updated": "2026-04-19T03:34:55.777Z",
+  "items": [
+    {
+      "title": "Panic 出手整治：Playdate 掌机游戏不许用 AI 搞美术音乐，代码辅助除外",
+      "link": "https://www.ithome.com/0/940/844.htm",
+      "summary": "<p data-vmark=\"d08c\">IT之家 4 月 19 日消息，Panic 公司将不再允许开发者在其 Playdate 应用商店 Catalog 上架使用生成式人工智能工具创作美术、音频、音乐、文本或对话内容的游戏作品。</p><p style=\"text-align: center;\" data-vmark=\"1377\"><img src=\"https://img.ithome.com...",
+      "pubDate": "2026-04-19T03:12:16.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 喜欢的IP不更了？网友：不怕，我有AI… ",
+      "link": "https://www.huxiu.com/article/4851828.html?f=rss",
+      "summary": " <p data-check-id=\"726642\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU2MTU4MTc1Ng==&mid=2247982326&idx=1&sn=0e7a10bee2bdb212f41d0d92d43d1d8c&ch...",
+      "pubDate": "2026-04-19T02:41:15.000Z",
+      "source": " 虎嗅 "
+    }
+  ]
 }
