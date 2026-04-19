@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Sun, 19 Apr 2026 09:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 13:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[为 AI 智能体订立生成式 UI 设计标准，谷歌发布 A2UI 0.9]]></title>
-            <link>https://www.ithome.com/0/940/893.htm</link>
-            <guid>https://www.ithome.com/0/940/893.htm</guid>
-            <pubDate>Sun, 19 Apr 2026 08:16:51 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="3c53">IT之家 4 月 19 日消息，据科技媒体 The Decoder 今天报道，谷歌现已推出生成式 UI 标准 A2UI 0.9，允许 AI 智能体构建用户界面元素，可以从现有应用组件中调用资源。</p><p style="text-align: center;" data-vmark="a4f7"><img src="https://img.ithome....]]></description>
-            <content:encoded><![CDATA[<p data-vmark="3c53">IT之家 4 月 19 日消息，据科技媒体 The Decoder 今天报道，谷歌现已推出生成式 UI 标准 A2UI 0.9，允许 AI 智能体构建用户界面元素，可以从现有应用组件中调用资源。</p><p style="text-align: center;" data-vmark="a4f7"><img src="https://img.ithome.com/newsuploadfiles/2026/4/0b22ee21-50f4-48ac-8bfe-2b053e32a55a.jpg?x-bce-process=image/format,f_auto" w="1440" h="428" data-weibo="0" data-vmark="f562" class="no-alt-img"></p><p data-vmark="46cb">IT之家在此援引 The Decoder，A2UI 0.9 提供共享 Web 核心库、官方 React 渲染器，并针对<span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"> Flutter</span>、<span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline">Lit</span> 和 <span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline">Angular 等常用框架更新渲染器。同时提供全新 Agent SDK，支持通过 Python 安装，为 AI 智能体订立生成式 UI 设计标准。</span></p><p style="text-align: center;" data-vmark="d62c"><img src="https://img.ithome.com/newsuploadfiles/2026/4/3acff856-7cee-45f7-bf0f-f7bb84117a3e.png?x-bce-process=image/format,f_auto" w="1440" h="803" data-weibo="1" data-vmark="8f2d" class="no-alt-img"></p><p data-vmark="6703"><span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline">同时，谷歌未来还将推出 Go、Kotlin 版本的 A2UI，本次更新还引入客户端自定义函数、客户端与服务器数据同步等功能，改善错误处理机制。</span></p><p data-vmark="b603"><span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline">谷歌表示，A2UI 生态正在快速发展，目前已支持 AG2、A2A 1.0、json-render 等集成方案。</span></p>]]></content:encoded>
-        </item>
     </channel>
 </rss>
