@@ -1,6 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-20T10:05:04.559Z",
-  "items": []
+  "updated": "2026-04-20T14:00:34.535Z",
+  "items": [
+    {
+      "title": "WIKO 情感陪伴 AI 电子宠物“智能憨憨”蜂窝版上市：华为小艺大模型加持，预售价 499 元",
+      "link": "https://www.ithome.com/0/941/360.htm",
+      "summary": "<p data-vmark=\"d7c3\">IT之家 4 月 20 日消息，WIKO 情感陪伴 AI 电子宠物“智能憨憨”蜂窝版今日官宣上市，支持 Wi-Fi / 蜂窝网络，<strong>新品预售价 499 元</strong>，将在 4 月 25 日正式开售。</p><p data-vmark=\"876a\" style=\"text-align: center;\"><img src=\"https:...",
+      "pubDate": "2026-04-20T13:59:40.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 一切为了IPO，OpenAI三位高管同日离职 ",
+      "link": "https://www.huxiu.com/article/4852224.html?f=rss",
+      "summary": " <p data-check-id=\"893791\"><span class=\"text-remarks\" label=\"备注\">出品｜虎嗅科技组</span></p><p data-check-id=\"324521\"><span class=\"text-remarks\" label=\"备注\">作者｜赵致格</span></p><p data-check-id=\"448262\"><span cla...",
+      "pubDate": "2026-04-20T13:30:00.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "曝安卓第三方桌面 Nova Launcher 将添加 AI 助手，是否近期上线仍存变数",
+      "link": "https://www.ithome.com/0/941/354.htm",
+      "summary": "<p data-vmark=\"b332\">IT之家 4 月 20 日消息，科技媒体 Android Authority 今天发布博文，对安卓系统第三方桌面 Nova Launcher v8.6.8 测试版进行 APK 拆包，显示该桌面未来或将添加 AI 助手，<strong>需要读取短信、GPS 定位、通话记录等深层权限才能启用</strong>。</p><p style=\"text-align:...",
+      "pubDate": "2026-04-20T13:26:13.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
