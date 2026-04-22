@@ -4,18 +4,26 @@
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Wed, 22 Apr 2026 03:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 06:05:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
         <item>
-            <title><![CDATA[百度联盟发布“星云计划”，全面开放百度猎户座AI引擎]]></title>
-            <link>https://36kr.com/newsflashes/3777426139616004?f=rss</link>
-            <guid>https://36kr.com/newsflashes/3777426139616004?f=rss</guid>
-            <pubDate>Wed, 22 Apr 2026 03:16:34 GMT</pubDate>
-            <description><![CDATA[36氪获悉，4月22日，百度联盟大会上正式启动“星云计划”，向全行业开放百度猎户座AI引擎。MCP服务收益与开发者共享，厂商可按行业模块化直接接入。小米、荣耀、vivo等手机厂商已率先加入。百度猎户座是面向合作伙伴开放的AI搜索全链路通用服务方案，依托文心助手，通过Master Agent与多Skills编排，可调用百度搜索及电商、旅游、健康等服务，实现从信息获取到任务交付的闭环。...]]></description>
-            <content:encoded><![CDATA[36氪获悉，4月22日，百度联盟大会上正式启动“星云计划”，向全行业开放百度猎户座AI引擎。MCP服务收益与开发者共享，厂商可按行业模块化直接接入。小米、荣耀、vivo等手机厂商已率先加入。百度猎户座是面向合作伙伴开放的AI搜索全链路通用服务方案，依托文心助手，通过Master Agent与多Skills编排，可调用百度搜索及电商、旅游、健康等服务，实现从信息获取到任务交付的闭环。]]></content:encoded>
+            <title><![CDATA[消息称 OpenAI 拟 15 亿美元投资一合资企业，发力企业级 AI 市场]]></title>
+            <link>https://www.ithome.com/0/942/060.htm</link>
+            <guid>https://www.ithome.com/0/942/060.htm</guid>
+            <pubDate>Wed, 22 Apr 2026 06:03:48 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="40a6">IT之家 4 月 22 日消息，据英国《金融时报》援引知情人士消息报道，人工智能公司 OpenAI 拟向与多家私募股权公司成立的新合资企业注资至多 15 亿美元（IT之家注：现汇率约合 102.55 亿元人民币）。</p><p style="text-align: center;" data-vmark="8dbc"><img src="https://i...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="40a6">IT之家 4 月 22 日消息，据英国《金融时报》援引知情人士消息报道，人工智能公司 OpenAI 拟向与多家私募股权公司成立的新合资企业注资至多 15 亿美元（IT之家注：现汇率约合 102.55 亿元人民币）。</p><p style="text-align: center;" data-vmark="8dbc"><img src="https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/format,f_auto" w="1440" h="810" data-weibo="0" data-vmark="a0f0" class="no-alt-img"></p><p data-vmark="1f52">报道称，这家 ChatGPT 开发商将先向这家内部名为 DeployCo 的合资企业投入 5 亿美元股权，该企业预计在 5 月初完成的一轮融资中估值达到 100 亿美元。</p><p data-vmark="7f8d">报道称，DeployCo 是一家在特拉华州注册的有限责任公司，其设立旨在加快 OpenAI 办公工具的普及应用，也是该公司进军企业级市场的核心举措。</p><p data-vmark="02d8">此外，OpenAI 将持有 DeployCo 的超级投票权股份。</p><p data-vmark="5834">报道还提到，DeployCo 的私募股权投资方将进行五年期投资，OpenAI 为其承诺 17.5% 的年化回报率。</p><p data-vmark="0355">OpenAI 后续还可选择追加投资 10 亿美元，包括 TPG、贝恩资本、安宏资本、Brookfield 及 Goanna Capital 在内的投资方将另行注资 40 亿美元。</p><p data-vmark="55e0">路透社今年 3 月曾报道，OpenAI 及其竞争对手 Anthropic 均在积极争取私募股权公司的合作，这些机构掌控着众多企业客户，并对企业在软件与人工智能领域的支出决策具有重要影响力。</p><p data-vmark="6651">近期，OpenAI 正加大对企业级人工智能业务的投入，而在这一市场中，市场普遍认为 Anthropic 的发展势头更为强劲，企业客户覆盖面更广。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ 库克宣布退休，他也搞不动苹果AI了？ ]]></title>
+            <link>https://www.huxiu.com/article/4852634.html?f=rss</link>
+            <guid>4852634</guid>
+            <pubDate>Wed, 22 Apr 2026 06:00:00 GMT</pubDate>
+            <description><![CDATA[ <p data-check-id="847754">66岁的库克今天宣布卸任苹果公司CEO，对于总被批评落后的苹果AI来说，这可能是好事。因为他宣布的接班人，是苹果公司负责硬件工程的高级副总裁约翰·特努斯，比他年轻16岁。苹果可能会从一家全球最会赚钱的公司，回到产品驱动本身。AI与硬件的融合，可能会成为苹果下一个时代的看点。</p> ...]]></description>
+            <content:encoded><![CDATA[ <p data-check-id="847754">66岁的库克今天宣布卸任苹果公司CEO，对于总被批评落后的苹果AI来说，这可能是好事。因为他宣布的接班人，是苹果公司负责硬件工程的高级副总裁约翰·特努斯，比他年轻16岁。苹果可能会从一家全球最会赚钱的公司，回到产品驱动本身。AI与硬件的融合，可能会成为苹果下一个时代的看点。</p> ]]></content:encoded>
         </item>
     </channel>
 </rss>
