@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Wed, 22 Apr 2026 13:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 17:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[真我手机 realme UI 系统 4 月升级计划公布，大量 AI 功能上线、车机投屏将支持微信 App]]></title>
+            <link>https://www.ithome.com/0/942/341.htm</link>
+            <guid>https://www.ithome.com/0/942/341.htm</guid>
+            <pubDate>Wed, 22 Apr 2026 15:45:24 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="e6c6">IT之家 4 月 22 日消息，真我手机已在 OPPO 社区发布了 realme UI 系统的 4 月体验升级计划，新版本已开启陆续推送。</p><p data-vmark="ddd8" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2025/10/...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="e6c6">IT之家 4 月 22 日消息，真我手机已在 OPPO 社区发布了 realme UI 系统的 4 月体验升级计划，新版本已开启陆续推送。</p><p data-vmark="ddd8" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2025/10/d9a99e37-97aa-451b-afd5-2fa5dd77c179.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1" w="1268" h="845" data-vmark="4249" alt="realme 真我 GT8 Pro" data-weibo="0"></p><figcaption>▲ IT之家评测室：realme <span class="hot-topic" data-topic-logo="//pimg.ithome.com/products/2025/10/21/13d325a3-2e92-414e-b816-74ed8015013e.jpg?x-bce-process=image/format,f_auto" data-topic-id="57253">真我 GT8 Pro</span> 体验评测</figcaption><p data-vmark="aee5">据介绍，realme UI 系统 4 月体验升级内容包括小布记忆账单导入、小布记忆支持识别部分应用中聊天转账信息、车机投屏应用支持微信、手机接续车机投屏导航、支持在桌面添加 2×1 和 2×2 尺寸空气质量卡片、极客性能面板支持温控调节等功能。</p><p data-vmark="0326">真我手机官方表示，<strong>以上功能已于 4 月 20 日开始陆续推送</strong>，分批覆盖 realme UI 7.0 及以上机型：</p><blockquote><ul class="medium-size list-paddingleft-2"><li><p data-vmark="8b4e">真我 GT8 Pro</p></li><li><p data-vmark="22f0"><span class="hot-topic" data-topic-logo="//pimg.ithome.com/products/2025/10/21/ea4ac77a-104a-4958-b3a8-90d1f1825331.jpg?x-bce-process=image/format,f_auto" data-topic-id="55995">真我 GT8</span></p></li><li><p data-vmark="fded"><span class="hot-topic" data-topic-logo="//pimg.ithome.com/products/2026/01/23/f3cd1514-6755-4dcb-8510-3ba04a6174b3.jpg?x-bce-process=image/format,f_auto" data-topic-id="59573">真我 Neo8</span></p></li><li><p data-vmark="c60c">真我 GT7 Pro</p></li><li><p data-vmark="fb57">真我 GT7 Pro 竞速版</p></li><li><p data-vmark="fef7">真我 GT7</p></li><li><p data-vmark="f4e3">真我 Neo7</p></li><li><p data-vmark="449b">真我 Neo7 Turbo</p></li><li><p data-vmark="8db2">真我 Neo7 SE</p></li><li><p data-vmark="0df5">真我 GT5 Pro</p></li><li><p data-vmark="3f84">真我 GT6</p></li><li><p data-vmark="fdad">真我 GT Neo6</p></li><li><p data-vmark="a2f3">真我 GT Neo6 SE</p></li></ul></blockquote><p data-vmark="a02d">IT之家附 realme UI 系统 4 月体验升级计划如下：</p><p data-vmark="082d" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/134cd393-058f-4c30-a694-3586bc9a672b.jpg?x-bce-process=image/format,f_auto" w="1440" h="8253" data-mpos="1,2"  data-vmark="4d7b" data-weibo="1" class="no-alt-img"></p>]]></content:encoded>
+        </item>
     </channel>
 </rss>
