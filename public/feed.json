@@ -1,6 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-24T13:54:10.682Z",
-  "items": []
+  "updated": "2026-04-24T17:06:41.866Z",
+  "items": [
+    {
+      "title": " 现在看清了：AI不是平权，它是资本和劳动力的最后一战。越有钱跑得越快 ",
+      "link": "https://www.huxiu.com/article/4853648.html?f=rss",
+      "summary": " <p data-check-id=\"776085\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU4NDQwMTc3MQ==&mid=2247492811&idx=1&sn=7c3f5d507b734a734e3dd14a60a285aa&ch...",
+      "pubDate": "2026-04-24T16:05:08.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "Meta 与亚马逊 AWS 达成合作，部署数千万 Graviton 核心构建 AI 基础设施",
+      "link": "https://www.ithome.com/0/943/360.htm",
+      "summary": "<p data-vmark=\"628a\">IT之家 4 月 24 日消息，Meta 今天与亚马逊 AWS 达成合作协议，大规模部署 AWS Graviton 处理器，为下一代 AI 打下基础。</p><p style=\"text-align: center;\" data-vmark=\"aa14\"><img src=\"https://img.ithome.com/newsuploadfiles/20...",
+      "pubDate": "2026-04-24T14:40:06.000Z",
+      "source": "IT之家"
+    }
+  ]
 }
