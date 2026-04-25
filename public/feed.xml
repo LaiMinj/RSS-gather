@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Sat, 25 Apr 2026 05:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 09:02:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
+        <item>
+            <title><![CDATA[大量 AI 音乐涌入 Apple Music 平台，但播放量几乎为零]]></title>
+            <link>https://www.ithome.com/0/943/467.htm</link>
+            <guid>https://www.ithome.com/0/943/467.htm</guid>
+            <pubDate>Sat, 25 Apr 2026 08:12:40 GMT</pubDate>
+            <description><![CDATA[<p data-vmark="23d9">IT之家 4 月 25 日消息，据科技媒体 Appleinsider 前天报道，苹果 Apple Music 副总裁 Oliver Schusser 最近表示，尽管 AI 生成的音乐占据提交曲目的很大比例，<strong>但实际播放量却几乎为零</strong>。</p><p data-vmark="821b" style="text-align: cen...]]></description>
+            <content:encoded><![CDATA[<p data-vmark="23d9">IT之家 4 月 25 日消息，据科技媒体 Appleinsider 前天报道，苹果 Apple Music 副总裁 Oliver Schusser 最近表示，尽管 AI 生成的音乐占据提交曲目的很大比例，<strong>但实际播放量却几乎为零</strong>。</p><p data-vmark="821b" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/4/0833d30e-f2b2-4291-a6cf-c1306bc2b98f.jpg?x-bce-process=image/format,f_auto" w="1200" h="675" data-weibo="0" data-vmark="8946" class="no-alt-img"></p><figcaption>▲ Oliver Schusser，图源：苹果</figcaption><p data-vmark="455c">Oliver Schusser 指出，Apple Music 目前新提交的曲目由三分之一以上是“完全 AI 生成”，<strong>但实际播放量不到 0.5%</strong>。</p><p data-vmark="961f">IT之家在此援引 Appleinsider，苹果正在采取主动措施，防止 AI 音乐破坏 Apple Music 的完整性。公司已研发一项内部技术，可识别哪些音乐使用了 AI 模型，甚至还能区分出 AI 模型用量等。</p><p data-vmark="0731"><strong>苹果要求唱片公司</strong>、<strong>发行商在歌曲中披露 AI 使用情况</strong>，<strong>同时依靠内部系统分析提交内容</strong>，验证披露信息是否真实。</p><p data-vmark="d96a">这名副总裁还指出，靠免费广告扶持平台服务会贬损音乐，因此 Apple Music 一直是付费平台，优先考虑艺术家酬劳和价格一致性。</p>]]></content:encoded>
+        </item>
     </channel>
 </rss>
