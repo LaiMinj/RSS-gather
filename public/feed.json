@@ -1,6 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-26T20:49:49.999Z",
-  "items": []
+  "updated": "2026-04-27T03:44:15.050Z",
+  "items": [
+    {
+      "title": "中科创达推出滴水AIOS 2.1和Kanzi 4",
+      "link": "https://36kr.com/newsflashes/3784526119279619?f=rss",
+      "summary": "36氪获悉，4月26日，中科创达推出专为AIOS而生的新一代汽车人机交互（HMI）引擎Kanzi 4和滴水AIOS 2.1。该产品以超级融合AI智能体为核心，依托全新OpenClaw架构搭建AquaClaw汽车智能体技术底座，完成操作系统从内核到应用的全栈重构，实现智能座舱由“被动响应执行”向“主动全域智能”的进阶。...",
+      "pubDate": "2026-04-27T03:39:03.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
+      "link": "https://36kr.com/newsflashes/3784514046926081?f=rss",
+      "summary": "知名分析师郭明錤发文称，OpenAI计划自研手机，正与联发科、高通合作开发手机处理器，预计2028年量产。唯有完全掌控系统与硬件，才能提供全面性的AI Agent（代理）服务。（财联社）...",
+      "pubDate": "2026-04-27T03:26:46.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": " 在AI时代有活儿干的方法：把工具性工作升级为目的性工作 ",
+      "link": "https://www.huxiu.com/article/4854012.html?f=rss",
+      "summary": " <p data-check-id=\"753383\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzE5MTk3NzY2MA==&mid=2247484420&idx=1&sn=b7cdb25155b3ac9a92e544a348bd8c86&ch...",
+      "pubDate": "2026-04-27T03:19:11.000Z",
+      "source": " 虎嗅 "
+    }
+  ]
 }
