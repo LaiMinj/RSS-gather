@@ -1,27 +1,41 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-27T03:44:15.050Z",
+  "updated": "2026-04-27T06:34:10.960Z",
   "items": [
     {
-      "title": "中科创达推出滴水AIOS 2.1和Kanzi 4",
-      "link": "https://36kr.com/newsflashes/3784526119279619?f=rss",
-      "summary": "36氪获悉，4月26日，中科创达推出专为AIOS而生的新一代汽车人机交互（HMI）引擎Kanzi 4和滴水AIOS 2.1。该产品以超级融合AI智能体为核心，依托全新OpenClaw架构搭建AquaClaw汽车智能体技术底座，完成操作系统从内核到应用的全栈重构，实现智能座舱由“被动响应执行”向“主动全域智能”的进阶。...",
-      "pubDate": "2026-04-27T03:39:03.000Z",
-      "source": "36氪"
+      "title": " 马斯克起诉OpenAI案将开庭，他要求“罢免”阿尔特曼、恢复公司非盈利性质，若胜诉，OpenAI上市或被迫搁置，近6万亿元产业链被波及 ",
+      "link": "https://www.huxiu.com/article/4854060.html?f=rss",
+      "summary": " <p data-check-id=\"226123\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248532588&idx=1&sn=63a8f37fa3949a0b3b3dc8c2eb6bb22d&ch...",
+      "pubDate": "2026-04-27T06:24:30.000Z",
+      "source": " 虎嗅 "
     },
     {
-      "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
-      "link": "https://36kr.com/newsflashes/3784514046926081?f=rss",
-      "summary": "知名分析师郭明錤发文称，OpenAI计划自研手机，正与联发科、高通合作开发手机处理器，预计2028年量产。唯有完全掌控系统与硬件，才能提供全面性的AI Agent（代理）服务。（财联社）...",
-      "pubDate": "2026-04-27T03:26:46.000Z",
-      "source": "36氪"
+      "title": " 三星、SK海力士赚翻了，韩国为什么还在AI焦虑？ ",
+      "link": "https://www.huxiu.com/article/4854056.html?f=rss",
+      "summary": " <p data-check-id=\"304681\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU1MzQ1NDk3MQ==&mid=2247581246&idx=1&sn=fef0d8cbf1ffd3ce4122b318fbdad0d8&ch...",
+      "pubDate": "2026-04-27T06:17:21.000Z",
+      "source": " 虎嗅 "
     },
     {
-      "title": " 在AI时代有活儿干的方法：把工具性工作升级为目的性工作 ",
-      "link": "https://www.huxiu.com/article/4854012.html?f=rss",
-      "summary": " <p data-check-id=\"753383\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzE5MTk3NzY2MA==&mid=2247484420&idx=1&sn=b7cdb25155b3ac9a92e544a348bd8c86&ch...",
-      "pubDate": "2026-04-27T03:19:11.000Z",
+      "title": "紫光展锐、华阳通用携手发布 A8880 芯片 AI 座舱平台",
+      "link": "https://www.ithome.com/0/943/905.htm",
+      "summary": "<p data-vmark=\"fdfc\">IT之家 4 月 27 日消息，紫光展锐本月 24 日在 2026（第十九届）北京国际汽车展览会上与 ADAYO 华阳通用联合发布<strong>搭载旗舰级芯片 A8880 的新一代 AI 座舱平台</strong>。</p><p data-vmark=\"f924\" style=\"text-align: center;\"><img src=\"https:/...",
+      "pubDate": "2026-04-27T06:06:04.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "OpenAI 发布 Privacy Filter：1.5B 参数 PII 脱敏模型，Apache 2.0 开源上线",
+      "link": "https://www.ithome.com/0/943/900.htm",
+      "summary": "<p data-vmark=\"9acc\">IT之家 4 月 27 日消息，OpenAI 于 4 月 22 日发布了一款用于脱敏文本中个人身份信息 (PII) 的前沿模型 Privacy Filter。</p><p data-vmark=\"3faf\">该模型已以 Apache 2.0 许可协议在 Hugging Face 和 GitHub 平台同步开源，供开发者下载、定制及商业部署。</p><p s...",
+      "pubDate": "2026-04-27T06:01:36.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 连鲁迅都没想到？中国网友为了省AI花费，开始说文言文了 ",
+      "link": "https://www.huxiu.com/article/4853402.html?f=rss",
+      "summary": " <p data-check-id=\"309287\">2026年中国网友省钱大法升级了，开始跟AI说文言文？事实上，AI涨价太狠，有的套餐一年涨了400%，免费版还各种诱惑你花钱。下次和AI聊天前，先精简你的问题吧！</p> ...",
+      "pubDate": "2026-04-27T06:00:00.000Z",
       "source": " 虎嗅 "
     }
   ]
