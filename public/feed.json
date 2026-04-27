@@ -1,21 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-27T14:12:06.229Z",
+  "updated": "2026-04-27T17:27:21.068Z",
   "items": [
     {
-      "title": "安克“AI 录音豆”智能录音硬件新增 64GB 存储空间版本，999 元",
-      "link": "https://www.ithome.com/0/944/177.htm",
-      "summary": "<p data-vmark=\"b240\">IT之家 4 月 27 日消息，安克宣布为旗下“AI 录音豆”智能录音硬件新增 64GB 存储空间版本，该产品系安克与飞书合作的产品，定价为 999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/fOOeaNn\" target=\"_blank\" data-wapurl=\"https...",
-      "pubDate": "2026-04-27T14:05:36.000Z",
+      "title": " “996文化”席卷硅谷？AI竞赛下，工程师你追我赶 ",
+      "link": "https://www.huxiu.com/article/4854266.html?f=rss",
+      "summary": " <p data-check-id=\"531867\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA3ODI5NDg0Mw==&mid=2654254524&idx=2&sn=da8eb85fad79353d4df66fd37ed3c7a0&ch...",
+      "pubDate": "2026-04-27T16:08:14.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": "因含 AI 生成虚构参考文献，南非首份国家 AI 政策草案被撤回",
+      "link": "https://www.ithome.com/0/944/196.htm",
+      "summary": "<p data-vmark=\"7350\">IT之家 4 月 27 日消息，据路透社报道，南非撤回了其首份国家人工智能政策草案，此前有消息披露，该草案参考文献列表中包含虚构来源，这些来源似乎是由人工智能生成的。</p><p style=\"text-align: center;\" data-vmark=\"955f\"><img src=\"https://img.ithome.com/newsupload...",
+      "pubDate": "2026-04-27T15:18:07.000Z",
       "source": "IT之家"
     },
     {
-      "title": " 对话周鸿祎： 美国Mythos改变攻防规则，AI正在制造新的“网络核武器” ",
-      "link": "https://www.huxiu.com/article/4854241.html?f=rss",
-      "summary": " <p data-check-id=\"205526\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzI0MzAzNjk2Nw==&mid=2651707057&idx=3&sn=a900970a6638e656c719d858f08c8956&ch...",
-      "pubDate": "2026-04-27T13:38:01.000Z",
-      "source": " 虎嗅 "
+      "title": "被传与 OpenAI 合作开发 AI 智能手机处理器后，高通股价飙升 13%",
+      "link": "https://www.ithome.com/0/944/193.htm",
+      "summary": "<p data-vmark=\"444c\">IT之家 4 月 27 日消息，据路透社报道，美股周一盘前，<strong>高通股价上涨 13%</strong>。此前，分析师郭明錤称，OpenAI 正在与高通和联发科合作开发智能手机处理器。</p><p data-vmark=\"0816\">天风国际证券分析师郭明錤在 X 上发文称，高通和联发科将共同参与 OpenAI 一款<strong>以 AI 为核...",
+      "pubDate": "2026-04-27T15:03:30.000Z",
+      "source": "IT之家"
     }
   ]
 }
