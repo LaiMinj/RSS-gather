@@ -1,21 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-29T03:47:14.852Z",
+  "updated": "2026-04-29T06:29:46.904Z",
   "items": [
     {
-      "title": "英伟达高管将与三星、SK海力士高管会面，洽谈实体人工智能合作事宜",
-      "link": "https://36kr.com/newsflashes/3787354913496321?f=rss",
-      "summary": "英伟达高管将与三星、SK海力士高管会面，洽谈实体人工智能合作事宜。（新浪财经）...",
-      "pubDate": "2026-04-29T03:36:38.000Z",
+      "title": "韩国今年将为AI工厂项目提供530亿韩元支持",
+      "link": "https://36kr.com/newsflashes/3787522956762371?f=rss",
+      "summary": "韩国产业通商资源部官员周三表示，今年将提供530亿韩元（约合3590万美元）的资金，用于支持旨在建设人工智能（AI）工厂基础设施的项目。据韩国产业通商资源部称，这笔资金将提供给参与“制造业人工智能转型”（M.AX）联盟人工智能工厂部门的企业牵头的项目。（新浪财经）...",
+      "pubDate": "2026-04-29T06:27:35.000Z",
       "source": "36氪"
     },
     {
-      "title": "掌阅科技：2026年将全面推进AI短剧工业化布局",
-      "link": "https://36kr.com/newsflashes/3787345802386435?f=rss",
-      "summary": "掌阅科技在2025年年度业绩说明会上表示，2026年公司将全面推进AI短剧工业化布局，实现内容生态规模化突破；显著加大资源投入力度，加码海外市场战略布局。在国内市场，AI短剧的成本结构将显著发生变化；海外市场流量渠道相对多元，公司将大力推动数字阅读、精品短剧、AI漫剧等多内容形态协同出海，搭建覆盖多语种、多区域的全球化内容生产与分发体系。（证券时报）...",
-      "pubDate": "2026-04-29T03:27:22.000Z",
-      "source": "36氪"
+      "title": "结束与微软独家合作，OpenAI 模型接入亚马逊 AWS",
+      "link": "https://www.ithome.com/0/944/915.htm",
+      "summary": "<p data-vmark=\"a0df\">IT之家 4 月 29 日消息，当地时间 4 月 28 日，在亚马逊云科技（Amazon Web Services，简称 AWS）新品发布会上，AWS 宣布携手 OpenAI，<strong>将 OpenAI 最新大模型接入 Amazon Bedroc</strong><strong>k</strong>，在 Amazon Bedrock 上线 Codex...",
+      "pubDate": "2026-04-29T06:13:26.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "微软 Win11 更新已触及 5GB，累积机制和 AI 组件成推手",
+      "link": "https://www.ithome.com/0/944/902.htm",
+      "summary": "<p data-vmark=\"8d18\">IT之家 4 月 29 日消息，科技媒体 Windows Latest 今天（4 月 29 日）发布博文，报道称 Windows 11 系统的月度累积更新体积已触及 5GB，调查显示 AI 组件虽有影响，<strong>但主因是“累积更新”机制与打包策略。</strong></p><p style=\"text-align: center;\" data-vm...",
+      "pubDate": "2026-04-29T05:59:15.000Z",
+      "source": "IT之家"
     }
   ]
 }
