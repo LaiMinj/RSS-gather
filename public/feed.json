@@ -1,28 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-04-30T06:33:16.666Z",
+  "updated": "2026-04-30T10:12:32.692Z",
   "items": [
     {
-      "title": "Counterpoint：联发科有望占据 AI 计算 ASIC 市场 1/4 份额，仅次于博通",
-      "link": "https://www.ithome.com/0/945/413.htm",
-      "summary": "<p data-vmark=\"dee5\">IT之家 4 月 30 日消息，调研公司 Counterpoint Research 当地时间 29 日发布简介，认为联发科技 (Mediatek) 有望凭借与 Google（谷歌）的合作<strong>在 2 年内实现 AI 服务器计算 ASIC 出货规模的数量级增长</strong>。</p><p data-vmark=\"be85\">联发科 2028 ...",
-      "pubDate": "2026-04-30T06:30:23.000Z",
-      "source": "IT之家"
+      "title": "央行等三部门：着力做好对企业购买人工智能设备和软件服务的金融服务，促进“人工智能+产业”发展",
+      "link": "https://36kr.com/newsflashes/3789154316803081?f=rss",
+      "summary": "36氪获悉，中国人民银行、国家发展改革委、财政部联合印发《关于扩大科技创新和技术改造贷款投放 进一步支持设备更新的通知》。《通知》聚焦金融服务科技创新和设备更新的重要环节，全链条优化政策举措。扩大支持科技创新和设备更新的范围，将研发投入水平较高的民营中小企业纳入再贷款政策支持领域，将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能、设施农业、消费商业设施等14个领域。...",
+      "pubDate": "2026-04-30T10:07:05.000Z",
+      "source": "36氪"
     },
     {
-      "title": "英伟达高管称现阶段 AI 服务运营成本高于人力成本",
-      "link": "https://www.ithome.com/0/945/410.htm",
-      "summary": "<p data-vmark=\"1214\">IT之家 4 月 30 日消息，科技媒体 Tom's Hardware 昨日（4 月 29 日）发布博文，<strong>报道称英伟达高管和 Uber 首席技术官指出，现阶段 AI 服务（如代码助手、自动化智能体）的运营成本高于人力成本。</strong></p><p data-vmark=\"7523\">这一观点挑战了“AI 必然降本增效”的普遍预期，揭示...",
-      "pubDate": "2026-04-30T06:22:02.000Z",
-      "source": "IT之家"
-    },
-    {
-      "title": "微软 CEO 纳德拉：与 OpenAI 达成新协议是双赢",
-      "link": "https://www.ithome.com/0/945/407.htm",
-      "summary": "<p data-vmark=\"b975\">IT之家 4 月 30 日消息，据 TechCrunch 报道，当地时间 4 月 29 日，一名华尔街分析师直截了当地询问微软首席执行官萨提亚 · 纳德拉，修订后的 OpenAI 合作伙伴关系将如何影响微软的财务状况。</p><p data-vmark=\"ba4f\">纳德拉表示，新协议对每个人来说都是一笔好交易。“我们对与 OpenAI 的合作伙伴关系感到...",
-      "pubDate": "2026-04-30T06:14:37.000Z",
-      "source": "IT之家"
+      "title": " Manus收购被叫停：地缘政治正重写AI商业逻辑 ",
+      "link": "https://www.huxiu.com/article/4855169.html?f=rss",
+      "summary": " <p data-check-id=\"523410\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5OTExMjYwMA==&mid=2670380190&idx=3&sn=86eeabaa432cd3f5cc55ef61a36df148&ch...",
+      "pubDate": "2026-04-30T09:53:57.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
