@@ -1,21 +1,42 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-01T06:42:47.923Z",
+  "updated": "2026-05-01T09:53:08.414Z",
   "items": [
     {
-      "title": " Science：华人团队利用生成式AI设计，迈向只有19种氨基酸的生命 ",
-      "link": "https://www.huxiu.com/article/4855363.html?f=rss",
-      "summary": " <p data-check-id=\"253433\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247799941&idx=1&sn=ebecaf8945ee4eacae62dd8f5f1f982e&ch...",
-      "pubDate": "2026-05-01T06:38:53.000Z",
+      "title": "美银：全球超大规模云计算企业2027年AI资本开支或达1万亿美元",
+      "link": "https://36kr.com/newsflashes/3790542827576582?f=rss",
+      "summary": "美银证券发布半导体行业研究报告，分析师Vivek Arya团队在四大美国科技巨头——谷歌、微软、亚马逊、Meta相继公布2026年第一季度财报并更新资本支出展望后，将2026年全球超大规模云计算企业资本支出预测上调至超过8000亿美元，同比增长67%，并预计2027年将进一步突破1万亿美元，同比增长约25%。（财联社）...",
+      "pubDate": "2026-05-01T09:39:33.000Z",
+      "source": "36氪"
+    },
+    {
+      "title": " iPhone不care AI ",
+      "link": "https://www.huxiu.com/article/4855377.html?f=rss",
+      "summary": " <p data-check-id=\"160415\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/Svo2XhV3xzFzyHl90b-1MQ\" target=\"_blank\" rel=\"nofollow\" style=\"text-decoration: non...",
+      "pubDate": "2026-05-01T09:32:23.000Z",
       "source": " 虎嗅 "
     },
     {
-      "title": "韩投称 AI 企业已锁定长期内存订单：即便市场短缺缓解，价格仍维持高位",
-      "link": "https://www.ithome.com/0/945/815.htm",
-      "summary": "<p data-vmark=\"231d\">IT之家 5 月 1 日消息，韩国投资证券（KIS，简称韩投）在最新研报中指出，<strong>即使内存芯片短缺缓解，价格短期内也不会出现明显下降。</strong>研报指出 AI 超大规模企业已锁定长期产能订单，因此会进一步拉长本轮内存超级周期，且内存售价在可以预见的未来始终维持高位运行。</p><p data-vmark=\"1c89\">IT之家援引研报...",
-      "pubDate": "2026-05-01T05:50:12.000Z",
+      "title": "麦肯锡：我们的客户在 AI 上每投入 1 美元，就能获得 3 美元回报",
+      "link": "https://www.ithome.com/0/945/861.htm",
+      "summary": "<p data-vmark=\"727e\">IT之家 5 月 1 日消息，据《商业内幕》今日报道，AI 热潮方兴未艾，外界对其是否真正能带来财务回报仍持怀疑态度。各家公司尝试了各种方法来衡量 AI 的潜在价值，从统计工具的用户量到员工使用 AI 节省的工作时间，不一而足。</p><p data-vmark=\"437d\">然而，对大多数企业而言，最关心的还是收益 —— 麦肯锡的最新数据表明，情况正在好...",
+      "pubDate": "2026-05-01T09:30:43.000Z",
       "source": "IT之家"
+    },
+    {
+      "title": "马斯克旗下公司“肥水不流外人田”？特斯拉去年从 SpaceX 和 xAI 获得超 5 亿美元",
+      "link": "https://www.ithome.com/0/945/857.htm",
+      "summary": "<p data-vmark=\"1df2\">IT之家 5 月 1 日消息，据《商业内幕》报道，马斯克旗下公司之间的生意往来越来越密集。当地时间周四上传的一份监管文件显示，特斯拉去年向 SpaceX 和 xAI 销售汽车及电池系统，合计获得 <strong>5.73 亿美元</strong>（IT之家注：现汇率约合 39.2 亿元人民币）<strong>收入</strong>。</p><p data-...",
+      "pubDate": "2026-05-01T09:02:37.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": " 专访中欧王安智：大厂逼员工用AI，成了一种形式主义？ ",
+      "link": "https://www.huxiu.com/article/4855379.html?f=rss",
+      "summary": " <p data-check-id=\"477604\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg5NzUyODA5OA==&mid=2247509072&idx=1&sn=88b59e1c742f3051711e0168a397690c&ch...",
+      "pubDate": "2026-05-01T08:50:52.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
