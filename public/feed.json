@@ -1,42 +1,21 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-01T09:53:08.414Z",
+  "updated": "2026-05-01T13:42:48.873Z",
   "items": [
     {
-      "title": "美银：全球超大规模云计算企业2027年AI资本开支或达1万亿美元",
-      "link": "https://36kr.com/newsflashes/3790542827576582?f=rss",
-      "summary": "美银证券发布半导体行业研究报告，分析师Vivek Arya团队在四大美国科技巨头——谷歌、微软、亚马逊、Meta相继公布2026年第一季度财报并更新资本支出展望后，将2026年全球超大规模云计算企业资本支出预测上调至超过8000亿美元，同比增长67%，并预计2027年将进一步突破1万亿美元，同比增长约25%。（财联社）...",
-      "pubDate": "2026-05-01T09:39:33.000Z",
-      "source": "36氪"
-    },
-    {
-      "title": " iPhone不care AI ",
-      "link": "https://www.huxiu.com/article/4855377.html?f=rss",
-      "summary": " <p data-check-id=\"160415\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/Svo2XhV3xzFzyHl90b-1MQ\" target=\"_blank\" rel=\"nofollow\" style=\"text-decoration: non...",
-      "pubDate": "2026-05-01T09:32:23.000Z",
-      "source": " 虎嗅 "
-    },
-    {
-      "title": "麦肯锡：我们的客户在 AI 上每投入 1 美元，就能获得 3 美元回报",
-      "link": "https://www.ithome.com/0/945/861.htm",
-      "summary": "<p data-vmark=\"727e\">IT之家 5 月 1 日消息，据《商业内幕》今日报道，AI 热潮方兴未艾，外界对其是否真正能带来财务回报仍持怀疑态度。各家公司尝试了各种方法来衡量 AI 的潜在价值，从统计工具的用户量到员工使用 AI 节省的工作时间，不一而足。</p><p data-vmark=\"437d\">然而，对大多数企业而言，最关心的还是收益 —— 麦肯锡的最新数据表明，情况正在好...",
-      "pubDate": "2026-05-01T09:30:43.000Z",
+      "title": "瑞莎 5 月 30 日联手高通举行 AI 开发者日，将发布飞牛 AI NAS",
+      "link": "https://www.ithome.com/0/945/897.htm",
+      "summary": "<p data-vmark=\"6a57\">IT之家 5 月 1 日消息，Radxa（瑞莎）今日宣布将携手 Qualcomm（高通）于 5 月 30 日在深圳举行以“AI 共进 · 开源新生”为主题的开发者日活动，<strong>届时将推出与飞牛深度合作的基于高通平台的 AI NAS 产品</strong>。</p><p data-vmark=\"65f2\" style=\"text-align: ce...",
+      "pubDate": "2026-05-01T13:33:37.000Z",
       "source": "IT之家"
     },
     {
-      "title": "马斯克旗下公司“肥水不流外人田”？特斯拉去年从 SpaceX 和 xAI 获得超 5 亿美元",
-      "link": "https://www.ithome.com/0/945/857.htm",
-      "summary": "<p data-vmark=\"1df2\">IT之家 5 月 1 日消息，据《商业内幕》报道，马斯克旗下公司之间的生意往来越来越密集。当地时间周四上传的一份监管文件显示，特斯拉去年向 SpaceX 和 xAI 销售汽车及电池系统，合计获得 <strong>5.73 亿美元</strong>（IT之家注：现汇率约合 39.2 亿元人民币）<strong>收入</strong>。</p><p data-...",
-      "pubDate": "2026-05-01T09:02:37.000Z",
+      "title": "韩国投放起亚 PV5 新式 AI 警车：内置无人机、热成像、90 倍变焦摄像头",
+      "link": "https://www.ithome.com/0/945/894.htm",
+      "summary": "<p data-vmark=\"b7eb\">IT之家 5 月 1 日消息，当地时间 4 月 30 日，据外媒 Carscoops 报道，起亚与韩国警察厅合作，基于 PV5 打造一款<strong>配备 AI 系统的高科技巡逻车</strong>。其采用黑白警车车身，并加入蓝色和黄色图形涂装。真正特别的是车顶加高结构，内部集成了一套<strong>无人机起降和停靠系统</strong>。</p><p ...",
+      "pubDate": "2026-05-01T13:13:34.000Z",
       "source": "IT之家"
-    },
-    {
-      "title": " 专访中欧王安智：大厂逼员工用AI，成了一种形式主义？ ",
-      "link": "https://www.huxiu.com/article/4855379.html?f=rss",
-      "summary": " <p data-check-id=\"477604\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=Mzg5NzUyODA5OA==&mid=2247509072&idx=1&sn=88b59e1c742f3051711e0168a397690c&ch...",
-      "pubDate": "2026-05-01T08:50:52.000Z",
-      "source": " 虎嗅 "
     }
   ]
 }
