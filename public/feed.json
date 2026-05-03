@@ -1,13 +1,20 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-03T13:26:22.000Z",
+  "updated": "2026-05-03T16:59:12.290Z",
   "items": [
     {
-      "title": "美光 CEO 称 AI 仍处于“早期阶段”，DRAM 内存和 NAND 闪存供应持续吃紧",
-      "link": "https://www.ithome.com/0/946/161.htm",
-      "summary": "<p data-vmark=\"44b1\">IT之家 5 月 3 日消息，存储巨头美光科技（Micron）第二财季创下了营收、毛利率、每股收益和自由现金流的多项纪录。</p><p data-vmark=\"1be9\">美光 CEO 桑杰・梅赫罗特拉（Sanjay Mehrotra）在接受 CNBC 采访时指出，当前的 AI 浪潮仅处于“早期阶段”，随着 AI 智能体的崛起，更高速、更大容量的存储已成为...",
-      "pubDate": "2026-05-03T11:52:24.000Z",
+      "title": "继“液态玻璃”之后：苹果 iOS 27 将重心转向 AI，Siri 迎来独立 App 并将深度整合到相机应用中",
+      "link": "https://www.ithome.com/0/946/194.htm",
+      "summary": "<p data-vmark=\"65a6\">IT之家 5 月 3 日消息，彭博社马克 · 古尔曼在最新一期 Power On 还提到了有关 iOS 27 方面的消息。继苹果去年引入“液态玻璃（Liquid Glass）”界面后，今年的 iOS 27 将更趋于渐进式更新。</p><p data-vmark=\"92ac\">据知情人士透露，iOS 27 更新聚焦于性能提升与 AI 两大领域，其他非核心功能...",
+      "pubDate": "2026-05-03T14:52:56.000Z",
+      "source": "IT之家"
+    },
+    {
+      "title": "马斯克 xAI 坐拥 55 万张英伟达 GPU 但算力利用率仅 11%，Meta 和谷歌可达 43~46%",
+      "link": "https://www.ithome.com/0/946/187.htm",
+      "summary": "<p data-vmark=\"5089\">IT之家 5 月 3 日消息，据《The Information》今日报道，马斯克旗下人工智能公司 xAI—— 也就是 Grok 大模型的幕后团队，目前手头上约有 55 万块英伟达 GPU（包括 H100 与 H200），但实际利用率仅有 11%。</p><p style=\"text-align: center;\" data-vmark=\"ad99\"><i...",
+      "pubDate": "2026-05-03T13:30:07.000Z",
       "source": "IT之家"
     }
   ]
