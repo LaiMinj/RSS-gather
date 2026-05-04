@@ -1,21 +1,28 @@
 {
   "title": "AI 精选周报",
   "description": "聚合多个科技源，使用 AI 生成摘要后的精华内容",
-  "updated": "2026-05-03T20:54:26.138Z",
+  "updated": "2026-05-04T03:52:12.659Z",
   "items": [
     {
-      "title": "继“液态玻璃”之后：苹果 iOS 27 将重心转向 AI，Siri 迎来独立 App 并将深度整合到相机应用中",
-      "link": "https://www.ithome.com/0/946/194.htm",
-      "summary": "<p data-vmark=\"65a6\">IT之家 5 月 3 日消息，彭博社马克 · 古尔曼在最新一期 Power On 还提到了有关 iOS 27 方面的消息。继苹果去年引入“液态玻璃（Liquid Glass）”界面后，今年的 iOS 27 将更趋于渐进式更新。</p><p data-vmark=\"92ac\">据知情人士透露，iOS 27 更新聚焦于性能提升与 AI 两大领域，其他非核心功能...",
-      "pubDate": "2026-05-03T14:52:56.000Z",
+      "title": "仅花 12 美元，工程师成功欺骗 AI 将虚构赛事奉为事实",
+      "link": "https://www.ithome.com/0/946/229.htm",
+      "summary": "<p data-vmark=\"69a0\">IT之家 5 月 4 日消息，普通搜索引擎会让用户自行甄别信息来源的可信度，而依托搜索能力的人工智能聊天机器人，却能把漏洞百出的网络素材包装成笃定确凿的答案。据 The Register 报道，就有这样一个典型案例：一名安全工程师哄骗多款 AI 机器人，声称自己是德国一款热门纸牌游戏的现任世界冠军，可事实上这项赛事根本不存在。</p><p data-vma...",
+      "pubDate": "2026-05-04T03:20:10.000Z",
       "source": "IT之家"
     },
     {
-      "title": "马斯克 xAI 坐拥 55 万张英伟达 GPU 但算力利用率仅 11%，Meta 和谷歌可达 43~46%",
-      "link": "https://www.ithome.com/0/946/187.htm",
-      "summary": "<p data-vmark=\"5089\">IT之家 5 月 3 日消息，据《The Information》今日报道，马斯克旗下人工智能公司 xAI—— 也就是 Grok 大模型的幕后团队，目前手头上约有 55 万块英伟达 GPU（包括 H100 与 H200），但实际利用率仅有 11%。</p><p style=\"text-align: center;\" data-vmark=\"ad99\"><i...",
-      "pubDate": "2026-05-03T13:30:07.000Z",
-      "source": "IT之家"
+      "title": " 硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰 ",
+      "link": "https://www.huxiu.com/article/4855633.html?f=rss",
+      "summary": " <p data-check-id=\"285552\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651283402&idx=1&sn=6ad76f53f4d33b3463669189fda999e8&ch...",
+      "pubDate": "2026-05-04T02:37:15.000Z",
+      "source": " 虎嗅 "
+    },
+    {
+      "title": " 当人工智能在诊断考试中超过医生，我们该慌吗？ ",
+      "link": "https://www.huxiu.com/article/4855632.html?f=rss",
+      "summary": " <p data-check-id=\"244611\"><span class=\"text-remarks\" label=\"备注\">本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4OTU5MTQ2MA==&mid=2650142625&idx=1&sn=6ae27ae7da116167dd393701d3828501&ch...",
+      "pubDate": "2026-05-04T02:29:22.000Z",
+      "source": " 虎嗅 "
     }
   ]
 }
