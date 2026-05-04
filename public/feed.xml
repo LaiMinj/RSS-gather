@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>AI 精选周报</title>
         <link>https://your-username.github.io/rss-ai-aggregator/</link>
         <description>聚合多个科技源，使用 AI 生成摘要后的精华内容</description>
-        <lastBuildDate>Mon, 04 May 2026 06:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 10:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <copyright>All rights reserved</copyright>
-        <item>
-            <title><![CDATA[英伟达黄仁勋痛批 Anthropic 阿莫迪，呼吁 AI 行业领袖慎言慎行、以事实为据]]></title>
-            <link>https://www.ithome.com/0/946/240.htm</link>
-            <guid>https://www.ithome.com/0/946/240.htm</guid>
-            <pubDate>Mon, 04 May 2026 06:25:34 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="62c8">IT之家 5 月 4 日消息，据《商业内幕》昨天报道，英伟达 CEO 黄仁勋上周四在《Memos to the President》播客节目表示，行业领袖应该在谈论 AI 重要性时应“慎言慎行”。</p><p style="text-align: center;" data-vmark="2ee8"><img src="https://img.ithome...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="62c8">IT之家 5 月 4 日消息，据《商业内幕》昨天报道，英伟达 CEO 黄仁勋上周四在《Memos to the President》播客节目表示，行业领袖应该在谈论 AI 重要性时应“慎言慎行”。</p><p style="text-align: center;" data-vmark="2ee8"><img src="https://img.ithome.com/newsuploadfiles/2026/5/257b61ee-e6cf-4a9f-9a12-fb5bcdc3f79e.jpg?x-bce-process=image/format,f_auto" w="1440" h="1440" data-weibo="0" data-vmark="0dee" class="no-alt-img"></p><figcaption>▲ 黄仁勋，图源：英伟达</figcaption><p data-vmark="6118">他首先提到了 Anthropic CEO 达里奥 · 阿莫迪（IT之家注：Dario Amodei）关于“AI 未来几年可能取代 50% 入门白领”的言论，并反驳道：“这种评论并没有帮助，阿莫迪和我都是 CEO。某种程度上，当你成为 CEO 就会产生上帝情结，觉得自己无所不知”。</p><p data-vmark="1cb7">黄仁勋对此补充道：“我觉得领袖们必须慎言慎行，并以事实为论据进行讨论”。</p><p data-vmark="ccf0">他还在节目中批评了 AI 可能毁灭世界的说法，并说道：“这种事情根本不可能发生，AI 有 20% 可能成为人类威胁这种说法太荒谬了”。</p><p data-vmark="2aba">黄仁勋这番言辞很可能是回应埃隆 · 马斯克。后者曾在今年 2 月表示，人类有 20% 的概率被 AI 毁灭。</p><p data-vmark="bf69">虽然 AI 已渗透到几乎所有经济层面，但这项技术对劳动力和人类的长远影响仍然无法估量。</p><p data-vmark="6c91">一些支持者认为，AI 可以提高效率、创造更多就业岗位、产生更多财富，并解决各种问题。另一些反对者则担心，AI 会取代人类工作、使人们互相孤立，最终引发某种末日。</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Linux 7.1 RC2 发布，AI 已渗透到内核开发]]></title>
-            <link>https://www.ithome.com/0/946/238.htm</link>
-            <guid>https://www.ithome.com/0/946/238.htm</guid>
-            <pubDate>Mon, 04 May 2026 05:56:16 GMT</pubDate>
-            <description><![CDATA[<p data-vmark="9ea9">IT之家 5 月 4 日消息，Linus Torvalds 刚刚发布了 Linux 7.1 的第二个候选版本（RC2），表示整体开发进展一切正常。这意味着，Linux 7.1 很有可能在第七个候选版本（RC7）之后准时正式发布。</p><p style="text-align: center;" data-vmark="763f"><img src="ht...]]></description>
-            <content:encoded><![CDATA[<p data-vmark="9ea9">IT之家 5 月 4 日消息，Linus Torvalds 刚刚发布了 Linux 7.1 的第二个候选版本（RC2），表示整体开发进展一切正常。这意味着，Linux 7.1 很有可能在第七个候选版本（RC7）之后准时正式发布。</p><p style="text-align: center;" data-vmark="763f"><img src="https://img.ithome.com/newsuploadfiles/2026/5/293c336f-0d1b-4b84-b48e-02166bb04067.png?x-bce-process=image/format,f_auto" w="1280" h="720" data-weibo="0" data-vmark="aab2" class="no-alt-img"></p><p data-vmark="fb1e">IT之家注意到，虽然整体状况看似平稳，但 Torvalds 特别提到，KVM 自测试相关补丁在本次更新中占比异常偏高。出现这种情况，是因为开发人员对自测试代码进行了大量重命名调整，使其符合内核编码规范。</p><p data-vmark="edac">他坦言，这一变动让本次版本更新显得体量偏大、风格反常，但他仅将其视作一次特例，不会过多纠结。他还指出，<strong>补丁数量激增大概率是 AI 开发工具普及所致，这一现象在 Linux 7.0 版本中就已显现</strong>。由此可见，人工智能的影响已渗透到代码开发的各个领域，就连 Linux 内核这类底层核心组件也不例外。</p><p data-vmark="5f6e">除自测试相关更新外，本次版本还修复了大量显卡与网络驱动问题。针对 AMD 与英特尔显卡驱动，修复了 RDNA 4、Xe 架构下存在的内存泄漏、缓冲区溢出以及电源管理性能倒退等多项漏洞。</p><p data-vmark="72a0">本次更新还对 NVMe 认证及 TLS 模式暴露问题进行了多处修复，有助于防范未授权访问风险。同时还修复了影响 RAID10 阵列配置、NTFS 文件系统以及 ICE 驱动栈的核心逻辑错误，能有效降低系统崩溃的概率。</p><p data-vmark="6ba9">目前距离本次版本开发周期结束还有较长时间，Linux 版本通常会经过七周测试，在第八周推出正式版。若后续需要发布 RC8 候选版本，正式版有时会额外推迟一周，但这并非常规情况。</p><p data-vmark="c98b">未来数周若开发状况出现恶化、需要追加测试，将是正式版延期的最主要信号。好在目前来看，本次版本大概率不会出现这种情况。</p><p data-vmark="2a9c">对于不了解内核的用户而言，Linux 内核承载着各类硬件组件的驱动程序。每一次内核版本更新，都会新增更多新硬件的适配支持，因此对于使用前沿新款硬件的用户来说，新版内核发布有着重要意义。</p>]]></content:encoded>
-        </item>
     </channel>
 </rss>
